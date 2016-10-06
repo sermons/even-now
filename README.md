@@ -1,9 +1,8 @@
-# reveal-skel
-## A Template for Presentations in Reveal.js
+# Joel 2:11-13, Even Now, Return to Me
 
-[![Travis-CI build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node dependencies](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node dev status](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Travis-CI build status](https://travis-ci.org/sermons/even-now.svg)](https://travis-ci.org/sermons/even-now)
+[![Node dependencies](https://david-dm.org/sermons/even-now.svg)](https://david-dm.org/sermons/even-now)
+[![Node dev status](https://david-dm.org/sermons/even-now/dev-status.svg)](https://david-dm.org/sermons/even-now#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

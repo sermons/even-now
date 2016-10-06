@@ -1,16 +1,16 @@
 {
-  "name": "reveal-skel",
+  "name": "even-now",
   "version": "0.5.0",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "repository": "sermons/even-now",
+  "description": "Joel 2:11-13, Even Now, Return to Me",
+  "keywords": ["slides", "sermon", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "even-now.seanho.com",
+    "cname": "even-now.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
-      "id": "22bc761ffc97809b"
+      "id": "ab575081a7f43302"
     },
     "git": {
       "name": "Sean Ho",
