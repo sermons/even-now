@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-# Even Now, Return to Me
+# Even Now, <br/> Return to Me
 ## Joel 2:11-13
 
 ---
