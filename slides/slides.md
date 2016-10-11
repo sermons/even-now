@@ -84,6 +84,9 @@ with fasting and **weeping** and mourning.
 <span class="hl2">13</span>
 Rend your **heart** and not your **garments**."
 
+>>>
++ fast / weep / mourn: for dead
+
 ---
 <span class="hl2">13</span>
 **Return** to the Lord your God, <br/>
@@ -91,6 +94,9 @@ for he is **gracious** and **compassionate**,
 
 **slow to anger** and **abounding in love**, <br/>
 and he **relents** from sending calamity.
+
+---
+## Exodus 34:5-6
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -111,8 +117,24 @@ declare a holy **fast**, call a sacred **assembly**.
 <span class="hl2">16</span>
 **Gather** the people, **consecrate** the assembly
 
+---
+<span class="hl2">17</span>
+Let them say, “**Spare** your people, Lord.
+
+Do not make your **inheritance** <br/>
+an object of **scorn**, <br/>
+a **byword** among the nations.
+
+Why should they **say** among the peoples, <br/>
+‘**Where is their God?**’”
+
 >>>
-Rev stones, still refuse to repent
++ **priests**, ministering at temple
++ not bc of our **righteousness**
++ not let **name** of Lord be **defamed**
+
+---
+Rev: stones, still refuse to repent
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -139,6 +161,9 @@ that I am the **Lord your God**, <br/>
 and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
+>>>
++ tangible, real relief
+
 ---
 <span class="hl2">28</span>
 And afterward, I will pour out <br/>
@@ -147,6 +172,9 @@ And afterward, I will pour out <br/>
 Your sons and daughters will **prophesy**, <br/>
 your old men will dream **dreams**, <br/>
 your young men will see **visions**.
+
+>>>
++ Acts 2: Pentecost
 
 ---
 <span class="hl2">30</span>
@@ -165,6 +193,9 @@ and dreadful **day of the Lord**.
 <span class="hl2">32</span>
 And everyone who calls <br/>
 on the **name of the Lord** will be **saved**
+
+>>> 
++ Rom 10
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
