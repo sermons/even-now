@@ -47,6 +47,9 @@ that **obeys** his command.
 The **day of the Lord** is great; it is dreadful. <br/>
 Who can **endure** it?
 
+>>>
++ Matthew 24:7?
+
 ---
 ## Habakkuk 3:17 <small>(NIV) (p.1/2)</small>
 Though the **fig tree** does not bud <br/>
