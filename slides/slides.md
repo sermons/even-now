@@ -9,16 +9,16 @@
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Outline
-1. **The Day of the Lord** <span class="hl2">(v11)</span>
-2. **God's Call** <span class="hl2">(v12-13)</span>
-3. **Our Response** <span class="hl2">(v15-17)</span>
-4. **Promise of Restoration** <span class="hl2">(v26-28)</span>
+1. **The Day of the Lord** <span class="ref">(v11)</span>
+2. **God's Call** <span class="ref">(v12-13)</span>
+3. **Our Response** <span class="ref">(v15-17)</span>
+4. **Promise of Restoration** <span class="ref">(v26-28)</span>
 
 ---
 ## 1. Day of the Lord
 
 ---
-<span class="hl2">(2:1)</span>
+<span class="ref">(2:1)</span>
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
 
@@ -26,9 +26,9 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the Lord** is coming.
 
 ---
-<span class="hl2">1</span>
+<span class="ref">1</span>
 It is **close** at hand — <br/>
-<span class="hl2">2</span>
+<span class="ref">2</span>
 a day of **darkness** and gloom, <br/>
 a day of **clouds** and blackness.
 
@@ -38,7 +38,7 @@ such as never was in ancient times <br/>
 nor ever will be in ages to come.
 
 ---
-<span class="hl2">11</span>
+<span class="ref">11</span>
 The Lord **thunders** at the head of his army; <br/>
 his forces are **beyond number**, <br/>
 and mighty is the army <br/>
@@ -51,7 +51,7 @@ Who can **endure** it?
 + Matthew 24:7?
 
 ---
-## Habakkuk 3:17 <small>(NIV) (p.1/2)</small>
+## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
 Though the **fig tree** does not bud <br/>
 and there are no **grapes** on the vines,
 
@@ -62,7 +62,7 @@ though there are no **sheep** in the pen <br/>
 and no **cattle** in the stalls,
 
 ---
-## Habakkuk 3:18 <small>(NIV) (p.1/2)</small>
+## Habakkuk 3:18 <span class="ref">(NIV) (p.1/2)</span>
 yet I will **rejoice in the Lord**, <br/>
 I will be **joyful in God** my Savior.
 
@@ -78,20 +78,20 @@ I will be **joyful in God** my Savior.
 ## 2. God's Call
 
 ---
-<span class="hl2">12</span>
+<span class="ref">12</span>
 “**Even now**,” declares the Lord,
 
 “**return** to me with all your **heart**, <br/>
 with fasting and **weeping** and mourning.
 
-<span class="hl2">13</span>
+<span class="ref">13</span>
 Rend your **heart** and not your **garments**."
 
 >>>
 + fast / weep / mourn: for dead
 
 ---
-<span class="hl2">13</span>
+<span class="ref">13</span>
 **Return** to the Lord your God, <br/>
 for he is **gracious** and **compassionate**,
 
@@ -113,15 +113,15 @@ and he **relents** from sending calamity.
 ## 3. Our Response
 
 ---
-<span class="hl2">15</span>
+<span class="ref">15</span>
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
 
-<span class="hl2">16</span>
+<span class="ref">16</span>
 **Gather** the people, **consecrate** the assembly
 
 ---
-<span class="hl2">17</span>
+<span class="ref">17</span>
 Let them say, “**Spare** your people, Lord.
 
 Do not make your **inheritance** <br/>
@@ -151,14 +151,14 @@ Rev: stones, still refuse to repent
 ## 4. Promise of Restoration
 
 ---
-<span class="hl2">26</span>
+<span class="ref">26</span>
 You will have **plenty** to eat, until you are **full**, <br/>
 and you will **praise** the name <br/>
 of the Lord your God, <br/>
 who has worked **wonders** for you; <br/>
 never again will my people be **shamed**.
 
-<span class="hl2">27</span>
+<span class="ref">27</span>
 Then you will know that I am **in Israel**, <br/>
 that I am the **Lord your God**, <br/>
 and that there is **no other**; <br/>
@@ -168,7 +168,7 @@ never again will my people be **shamed**.
 + tangible, real relief
 
 ---
-<span class="hl2">28</span>
+<span class="ref">28</span>
 And afterward, I will pour out <br/>
 **my Spirit** on all people.
 
@@ -180,12 +180,12 @@ your young men will see **visions**.
 + Acts 2: Pentecost
 
 ---
-<span class="hl2">30</span>
+<span class="ref">30</span>
 I will show **wonders** <br/>
 in the heavens and on the earth, <br/>
 **blood** and **fire** and billows of **smoke**.
 
-<span class="hl2">31</span>
+<span class="ref">31</span>
 The sun will be turned to **darkness** <br/>
 and the moon to **blood**
 
@@ -193,11 +193,11 @@ before the coming of the great <br/>
 and dreadful **day of the Lord**.
 
 ---
-<span class="hl2">32</span>
+<span class="ref">32</span>
 And everyone who calls <br/>
 on the **name of the Lord** will be **saved**
 
->>> 
+>>>
 + Rom 10
 
 ---
