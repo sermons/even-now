@@ -62,7 +62,7 @@ though there are no **sheep** in the pen <br/>
 and no **cattle** in the stalls,
 
 ---
-## Habakkuk 3:18 <span class="ref">(NIV) (p.1/2)</span>
+## Habakkuk 3:18 <span class="ref">(NIV) (p.2/2)</span>
 yet I will **rejoice in the Lord**, <br/>
 I will be **joyful in God** my Savior.
 
