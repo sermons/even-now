@@ -2,6 +2,15 @@
 # Even Now, <br/> Return to Me
 ## Joel 2:11-13
 
+>>>
++ parallels ch1 + ch2
++ grain/wine/oil
++ beasts of field: pasture
++ joy of man
++ priests: grain/drink offering
++ invading army
++ 2:28ff are separate, next stage
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Q0
