@@ -27,6 +27,17 @@
 ## 1. Day of the Lord
 
 ---
+<span class="ref">(1:4)</span>
+What the **locust swarm** has left <br/>
+the **great locusts** have eaten;
+
+what the **great locusts** have left <br/>
+the **young locusts** have eaten
+
+>>>
+TODO bg: locust swarm
+
+---
 <span class="ref">(2:1)</span>
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
@@ -42,16 +53,12 @@ a day of **darkness** and gloom, <br/>
 a day of **clouds** and blackness.
 
 Like **dawn spreading** across the mountains <br/>
-a large and mighty **army** comes, <br/>
-such as never was in ancient times <br/>
-nor ever will be in ages to come.
+a large and mighty **army** comes
 
 ---
 <span class="ref">11</span>
 The Lord **thunders** at the head of his army; <br/>
-his forces are **beyond number**, <br/>
-and mighty is the army <br/>
-that **obeys** his command.
+his forces are **beyond number** ...
 
 The **day of the Lord** is great; it is dreadful. <br/>
 Who can **endure** it?
