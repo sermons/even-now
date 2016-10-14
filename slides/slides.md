@@ -98,8 +98,8 @@ for he is **gracious** and **compassionate**,
 **slow to anger** and **abounding in love**, <br/>
 and he **relents** from sending calamity.
 
----
-## Exodus 34:5-6
+>>>
++ Exodus 34:5-6
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -137,7 +137,10 @@ Why should they **say** among the peoples, <br/>
 + not let **name** of Lord be **defamed**
 
 ---
-Rev: stones, still refuse to repent
+## Revelation 9:20
+
+>>>
+stones, still refuse to repent
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -158,6 +161,10 @@ of the Lord your God, <br/>
 who has worked **wonders** for you; <br/>
 never again will my people be **shamed**.
 
+>>>
++ tangible, real relief
+
+---
 <span class="ref">27</span>
 Then you will know that I am **in Israel**, <br/>
 that I am the **Lord your God**, <br/>
@@ -165,7 +172,10 @@ and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
 >>>
-+ tangible, real relief
+1. God is **here** (Canada)
+2. God is **our** God (relationship, covenant)
+3. God is the **only** God
+4. God is our **glory**
 
 ---
 <span class="ref">28</span>
