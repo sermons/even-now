@@ -327,16 +327,13 @@ never again will my people be **shamed**.
 2. God is **our** God (relationship, covenant)
 3. God is the **only** God
 4. God is our **vindication**
++ TODO: anecdote?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Restout-Pentecost.jpg" -->
 <span class="ref">(2:28)</span>
 And afterward, I will pour out <br/>
 **my Spirit** on all people.
-
-Your sons and daughters will **prophesy**, <br/>
-your old men will dream **dreams**, <br/>
-your young men will see **visions**.
 
 <div class="caption">
 (img: Jean Restout,
@@ -346,7 +343,6 @@ Musée du Louvre, Paris)
 
 >>>
 + Acts 2: Pentecost
-+ TODO: trim last half?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
@@ -374,7 +370,6 @@ whom the Lord **calls**
 + remnant will return
 + Rom 10
 + 3:15-16 Lord roars &rarr; refuge
-+ TODO: anecdote?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
