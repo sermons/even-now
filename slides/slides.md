@@ -11,6 +11,7 @@
 + times of **crisis**:
   + turning pt, decision, judge
 + **reveals** depth of our faith
+  + e.g., pray **less** after **married**
 + not just **personal** disaster:
   + **world** history coming to a close
   + God **warns** us so we can **repent**
