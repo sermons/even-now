@@ -3,13 +3,27 @@
 ## Joel 2:11-13
 
 >>>
-+ parallels ch1 + ch2
-+ grain/wine/oil
-+ beasts of field: pasture
-+ joy of man
-+ priests: grain/drink offering
-+ invading army
-+ 2:28ff are separate, next stage
++ locust (1:4) (2:25)
+  + nation invades (1:6) (2:2)
++ weep, wine drinkers (1:5)
+  + land mourns (1:10) (2:21)
+  + grain/wine/oil (1:10) (2:19,24) (3:13)
++ wail, farmers (1:11)
+  + trees + joy (1:12) (2:22-23)
++ lament, priests (1:13) (2:17)
+  + grain/drink offering (1:9,13) (2:14)
+  + fast/assembly (1:14) (2:15-17)
++ beasts groan (1:18) (2:22)
++ .
++ reproach, where is God (2:17) (2:27) (3:17)
++ Spirit (2:28-29)
++ call on Lord, escape (2:32)
++ .
++ army (2:1-10) (2:20) (3:9-11)
+  + wine press (2:24) (3:13): judgment
+  + sun/moon dark (2:10) (2:31) (3:15)
+  + LORD roars (2:11) (3:16): refuge
+  + water (1:10-12) (2:21-24) (3:18)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
