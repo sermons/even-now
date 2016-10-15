@@ -4,13 +4,16 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# **Disaster** <br/> is upon us.
-# **What** do we do?
+# **Disaster** <br/> is upon us --
+# **what** do we do?
 
 ---
+<span class="ref">(Jonah 3:4)</span>
+**Forty** more days and <br/>
+**Nineveh** will be overthrown
+
 >>>
 + review Jonah: God's grace, our mission
-  + "40 days, Nineveh overthrown!"
   + &rArr; **grace**: opport. to repent
 + Joel: date unc.: pre-exile, early 6c
   + Isr. already **rebellious**
@@ -25,6 +28,11 @@
 3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
 
 ---
+## The Day of the Lord
++ **Natural** disasters: *famine*, drought
++ **Human** disasters: *armies* of God
+
+---
 <span class="ref">(1:4)<sup>NIV</sup></span>
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
@@ -34,8 +42,8 @@ the **great locusts** have eaten
 + short-horned grasshoppers
   + normally **solitary**, but
   + **swarm** when crowded
-+ Albert's swarm of 1875:
-  + Rockies/W-US, 0.5M-km2, 3T
++ 1875: Rockies/W-US: 0.5M-km2, 3T
+  + Albert's swarm
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
@@ -59,11 +67,17 @@ Because there is no **pasture** for them
 <span class="ref">(1:12)<sup>NASB</sup></span>
 **Rejoicing** dries up from the **sons of men**
 
+---
+## The Day of the Lord
++ Natural disasters: famine, drought
++ **Human disasters**: *armies* of God
+
 >>>
 + natural **disasters**
   + **broken** creation bc **sin**
-+ **economy** in freefall
++ &rArr; **economy** in freefall
 + next: **violence**, war, instability
++ **both** are consequences of sin
 
 ---
 <span class="ref">(2:1)</span>
