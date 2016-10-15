@@ -4,7 +4,8 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q0
+# **Disaster** has <br/> struck our land.
+# **What** do we do?
 
 ---
 >>>
@@ -53,8 +54,14 @@ The herds of cattle wander aimlessly <br/>
 Because there is no **pasture** for them
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="ref">(1:12, NASB)</span>
 **Rejoicing** dries up from the **sons of men**
+
+>>>
++ natural **disasters**
++ **economy** in freefall
++ next: **violence**, war, instability
 
 ---
 <span class="ref">(2:1)</span>
@@ -64,12 +71,17 @@ sound the **alarm** on my holy hill.
 Let all who live in the land **tremble**, <br/>
 for the **day of the Lord** is coming.
 
+>>>
++ God sends an army
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
 <span class="ref">(2:10)</span>
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 <span class="ref">(2:11)</span>
 The Lord **thunders** at the head of his army; <br/>
 his forces are **beyond number** ...
@@ -99,7 +111,7 @@ with fasting and **weeping** and mourning.
 Rend your **heart** and not your **garments**."
 
 >>>
-+ fast / weep / mourn: for dead
++
 
 ---
 <span class="ref">(2:13)</span>
@@ -111,17 +123,7 @@ and he **relents** from sending calamity.
 
 >>>
 + Exodus 34:5-6
-
----
-<!-- .slide: class="Q" data-background="white" -->
-# Q2
-
----
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline
-
----
-## 3. Our Response
++ **nature** of God
 
 ---
 <span class="ref">(2:15)</span>
@@ -137,7 +139,7 @@ declare a holy **fast**, call a sacred **assembly**.
 + priests
 
 ---
-## Revelation 9:20
+## Revelation 9:20 <span class="ref">(NIV)</span>
 The rest of **mankind**
 who were not killed by these **plagues**
 
@@ -163,7 +165,8 @@ And will have **pity** on His people.
 
 ---
 <span class="ref">(2:21, NASB)</span>
-Do not fear, O **land**, rejoice and be glad, <br/>
+Do not fear, O **land**, <br/>
+rejoice and be glad, <br/>
 For the Lord has done **great** things.
 
 >>>
@@ -172,7 +175,8 @@ For the Lord has done **great** things.
 ---
 <span class="ref">(2:22, NASB)</span>
 Do not fear, **beasts** of the field, <br/>
-For the **pastures** of the wilderness have turned **green**
+For the **pastures** of the wilderness <br/>
+have turned **green**
 
 ---
 <span class="ref">(2:23, NASB)</span>
