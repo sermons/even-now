@@ -127,6 +127,7 @@ GFDL / CC BY-SA 3.0)
 + **both** are consequences of sin
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 <span class="ref">(2:1)</span>
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
@@ -175,6 +176,10 @@ Who can **endure** it?
 1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
 2. **Return: The Call of God** <span class="ref">(2:12-13)</span>
 3. Restoration: The Promise of God <span class="ref">(2:26-28)</span>
+
+>>>
++ v11 Lord **thunders** from army:
+  + what does He **say**?
 
 ---
 ## 2. The Call of God
@@ -366,7 +371,7 @@ whom the Lord **calls**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# Is the **day of the Lord** <br/> **awesome** to me, <br/> or **awful**?
 
 ---
 ## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
