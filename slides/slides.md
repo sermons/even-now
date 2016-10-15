@@ -30,8 +30,16 @@
 
 ---
 ## The Day of the Lord
-+ **Natural** disasters: *famine*, drought
-+ **Human** disasters: *armies* of God
++ **Natural** disasters: *famine*, drought <span class="ref">(ch1)</span>
+  + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>,
+    *farmers* <span class="ref">(1:11-12)</span>,
+    *priests* <span class="ref">(1:13-14)</span>
+  + **Mourners**: the *land* <span class="ref">(1:10)</span>,
+    *animals* <span class="ref">(1:18)</span>,
+    *people* <span class="ref">(1:12)</span>
++ **Human** disasters: *armies* of God <span class="ref">(2:1-11)</span>
+  + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
+  + The **LORD** thunders <span class="ref">(2:11)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Wild_Center-5574220011-locust_swarm.jpg" -->
@@ -60,6 +68,8 @@ The **land** mourns, <br/>
 for the **grain** is ruined
 
 >>>
++ 3 primary **categories** of harvest:
+  + **grain** + new **wine** + **oil**
 + 3 categories of mourners
   + land, animals, people
 
@@ -132,7 +142,10 @@ Who can **endure** it?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline
+## Joel: Even Now, Return
+1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
+2. **Return: The Call of God** <span class="ref">(2:12-13)</span>
+3. Restoration: The Promise of God <span class="ref">(2:26-28)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
@@ -203,7 +216,10 @@ declare a holy **fast**, call a sacred **assembly**.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline
+## Joel: Even Now, Return
+1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
+2. Return: The Call of God <span class="ref">(2:12-13)</span>
+3. **Restoration: The Promise of God** <span class="ref">(2:26-28)</span>
 
 ---
 <span class="ref">(2:18)<sup>NASB</sup></span>
@@ -218,11 +234,15 @@ And will have **pity** on His people.
   + land, animals, people
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-kmF_Aq8gkp0-barley_wheat_grain.jpg" -->
 <span class="ref">(2:21)<sup>NASB</sup></span>
 Do not fear, O **land**,
 
 rejoice and be glad, <br/>
 for the Lord has done **great** things.
+
+>>>
++ grain/wine/oil: (1:10) (2:19,24) (3:13)
 
 ---
 <span class="ref">(2:22)<sup>NASB</sup></span>
