@@ -36,7 +36,7 @@ html { font-size: 3em; } /* issue #20 */
 
 /* Image captions */
 .reveal section .caption {
-  font-size: 50%;
+  font-size: 0.45rem;
   color: #aaa;
 }
 
