@@ -25,7 +25,7 @@
 <div class="caption">
 (img: Gustave Doré,
 ["Jonah Preaches to the Ninevites"](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg),
-1866)
+1866 .)
 </div>
 
 >>>
@@ -242,7 +242,7 @@ still did **not repent** of the work of their hands
 <div class="caption">
 (img: Gustave Doré,
 ["The Fifth Plague: Livestock"](https://commons.wikimedia.org/wiki/File%3A033.The_Fifth_Plague._Livestock_Disease.jpg),
-1866)
+1866 .)
 </div>
 
 ---
@@ -291,9 +291,9 @@ and he **relents** from sending calamity.
 ---
 ## 3. The Promise of God
 + Restored **Nature** <span class="ref">(2:18-27)</span>
-  + *land*, *animals*, *people*
+  + Comfort: *land*, *animals*, *people*
 + Renewed **Spirit** <span class="ref">(2:28-32)</span>
-  + to all who *call* on His name
+  + To all who *call* on His name
 + Redeemed **Nation** <span class="ref">(ch3)</span>
 
 ---
@@ -306,7 +306,7 @@ And will have **pity** on His people.
 <div class="caption">
 (img: John Bridges,
 ["Christ Healing the Mother of Simon Peter’s Wife"](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg),
-1839. Birmingham Museum of Art)
+1839 . Birmingham Museum of Art)
 </div>
 
 >>>
@@ -375,8 +375,8 @@ And afterward, I will pour out <br/>
 
 <div class="caption">
 (img: Jean Restout,
-["Pentecost"](http://www.wga.hu/html/r/restout/jean2/pentecos.html),
-Musée du Louvre, Paris)
+["Pentecôte"](http://www.wga.hu/html/r/restout/jean2/pentecos.html),
+1732 . Musée du Louvre, Paris)
 </div>
 
 >>>
