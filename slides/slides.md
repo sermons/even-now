@@ -33,6 +33,7 @@
 + **Human** disasters: *armies* of God
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Wild_Center-5574220011-locust_swarm.jpg" -->
 <span class="ref">(1:4)<sup>NIV</sup></span>
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
