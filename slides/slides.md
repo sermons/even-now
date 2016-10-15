@@ -236,12 +236,18 @@ and he **relents** from sending calamity.
 + Exodus 34:5-6
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 <span class="ref">(2:15)</span>
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
 
 <span class="ref">16</span>
 **Gather** the people, **consecrate** the assembly
+
+<div class="caption">
+(img: &copy; 2010 [@bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0)
+</div>
+
 
 >>>
 + **corporate** repentance
