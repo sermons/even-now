@@ -246,19 +246,6 @@ still did **not repent** of the work of their hands
 </div>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
-<span class="ref">(2:13)</span>
-**Return** to the LORD your God, <br/>
-for he is **gracious** and **compassionate**,
-
-**slow to anger** and **abounding in love**, <br/>
-and he **relents** from sending calamity.
-
->>>
-+ **nature** of God
-+ Exodus 34:5-6
-
----
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 <span class="ref">(2:15-16)</span>
 Blow the **trumpet** in Zion, <br/>
@@ -270,6 +257,18 @@ declare a holy **fast**, call a sacred **assembly**.
 (img: &copy; 2010 [@bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0)
 </div>
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+<span class="ref">(2:13)</span>
+**Return** to the LORD your God, <br/>
+for he is **gracious** and **compassionate**,
+
+**slow to anger** and **abounding in love**, <br/>
+and he **relents** from sending calamity.
+
+>>>
++ **nature** of God
++ Exodus 34:5-6
 
 >>>
 + **corporate** repentance
