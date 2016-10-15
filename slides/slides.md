@@ -136,6 +136,8 @@ Rend your **heart** and not your **garments**
 
 >>>
 + JJ hit mom: pray, sorry, done, go play?
++ punish: timeout, spank, etc.
+  + &rArr; martyr!
 + can't force a **change of heart**
 
 ---
@@ -246,6 +248,7 @@ your young men will see **visions**.
 
 >>>
 + Acts 2: Pentecost
++ TODO: trim last half?
 
 ---
 <span class="ref">(2:31)</span>
@@ -272,6 +275,7 @@ whom the Lord **calls**
 + remnant will return
 + Rom 10
 + 3:15-16 Lord roars &rarr; refuge
++ TODO: anecdote?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
