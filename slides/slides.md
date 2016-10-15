@@ -3,6 +3,12 @@
 ## Joel 2:11-13
 
 >>>
++ review Jonah: God's grace, our mission
+  + "3 days, Nineveh overthrown!"
+  + &rArr; **grace**: opport. to repent
++ Joel: date unc,
+  + either very early (late 9c)
+  + or very late (pre-exile, early 6c)
 + locust (1:4) (2:25)
   + nation invades (1:6) (2:2)
 + weep, wine drinkers (1:5)
@@ -21,8 +27,8 @@
 + .
 + army (2:1-10) (2:20) (3:9-11)
   + wine press (2:24) (3:13): judgment
-  + sun/moon dark (2:10) (2:31) (3:15)
-  + LORD roars (2:11) (3:16): refuge
+  + sun/moon dark (2:10 army) (2:31 day) (3:15 decision)
+  + **LORD roars** (2:11) (2:32 calls) (3:16 refuge)
   + water (1:10-12) (2:21-24) (3:18)
 
 ---
@@ -38,18 +44,13 @@
 4. **Promise of Restoration** <span class="ref">(v26-28)</span>
 
 ---
-## 1. Day of the Lord
-
----
 <span class="ref">(1:4)</span>
 What the **locust swarm** has left <br/>
-the **great locusts** have eaten;
-
-what the **great locusts** have left <br/>
-the **young locusts** have eaten
+the **great locusts** have eaten
 
 >>>
-TODO bg: locust swarm
++ 4 stages of locust growth
++ TODO bg: locust swarm
 
 ---
 <span class="ref">(2:1)</span>
@@ -60,7 +61,7 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the Lord** is coming.
 
 ---
-<span class="ref">1</span>
+<span class="ref">(2:1)</span>
 It is **close** at hand — <br/>
 <span class="ref">2</span>
 a day of **darkness** and gloom, <br/>
@@ -70,7 +71,7 @@ Like **dawn spreading** across the mountains <br/>
 a large and mighty **army** comes
 
 ---
-<span class="ref">11</span>
+<span class="ref">(2:11)</span>
 The Lord **thunders** at the head of his army; <br/>
 his forces are **beyond number** ...
 
@@ -108,7 +109,7 @@ I will be **joyful in God** my Savior.
 ## 2. God's Call
 
 ---
-<span class="ref">12</span>
+<span class="ref">(2:12)</span>
 “**Even now**,” declares the Lord,
 
 “**return** to me with all your **heart**, <br/>
@@ -121,7 +122,7 @@ Rend your **heart** and not your **garments**."
 + fast / weep / mourn: for dead
 
 ---
-<span class="ref">13</span>
+<span class="ref">(2:13)</span>
 **Return** to the Lord your God, <br/>
 for he is **gracious** and **compassionate**,
 
@@ -143,15 +144,20 @@ and he **relents** from sending calamity.
 ## 3. Our Response
 
 ---
-<span class="ref">15</span>
+<span class="ref">(2:15)</span>
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
 
 <span class="ref">16</span>
 **Gather** the people, **consecrate** the assembly
 
+>>>
++ elders, child/infant
++ bride/groom
++ priests
+
 ---
-<span class="ref">17</span>
+<span class="ref">(2:17)</span>
 Let them say, “**Spare** your people, Lord.
 
 Do not make your **inheritance** <br/>
@@ -184,18 +190,7 @@ stones, still refuse to repent
 ## 4. Promise of Restoration
 
 ---
-<span class="ref">26</span>
-You will have **plenty** to eat, until you are **full**, <br/>
-and you will **praise** the name <br/>
-of the Lord your God, <br/>
-who has worked **wonders** for you; <br/>
-never again will my people be **shamed**.
-
->>>
-+ tangible, real relief
-
----
-<span class="ref">27</span>
+<span class="ref">(2:27)</span>
 Then you will know that I am **in Israel**, <br/>
 that I am the **Lord your God**, <br/>
 and that there is **no other**; <br/>
@@ -208,7 +203,7 @@ never again will my people be **shamed**.
 4. God is our **vindication**
 
 ---
-<span class="ref">28</span>
+<span class="ref">(2:28)</span>
 And afterward, I will pour out <br/>
 **my Spirit** on all people.
 
@@ -220,7 +215,7 @@ your young men will see **visions**.
 + Acts 2: Pentecost
 
 ---
-<span class="ref">30</span>
+<span class="ref">(2:30)</span>
 I will show **wonders** <br/>
 in the heavens and on the earth, <br/>
 **blood** and **fire** and billows of **smoke**.
@@ -233,12 +228,13 @@ before the coming of the great <br/>
 and dreadful **day of the Lord**.
 
 ---
-<span class="ref">32</span>
+<span class="ref">(2:32)</span>
 And everyone who calls <br/>
 on the **name of the Lord** will be **saved**
 
 >>>
 + Rom 10
++ 3:15-16 Lord roars &rarr; refuge
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
