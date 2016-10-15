@@ -149,7 +149,7 @@ for the **day of the LORD** is coming.
   + sharp cut, divide
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 <span class="ref">(2:10)</span>
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
