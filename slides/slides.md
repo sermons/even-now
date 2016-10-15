@@ -263,7 +263,7 @@ declare a holy **fast**, call a sacred **assembly**.
 **Return** to the LORD your God, <br/>
 for he is **gracious** and **compassionate**,
 
-**slow to anger** and **abounding in love**, <br/>
+slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
 
 >>>
