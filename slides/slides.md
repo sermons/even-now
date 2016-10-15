@@ -12,9 +12,10 @@
 + review Jonah: God's grace, our mission
   + "40 days, Nineveh overthrown!"
   + &rArr; **grace**: opport. to repent
-+ Joel: date unc,
-  + either very early (late 9c)
-  + or very late (pre-exile, early 6c)
++ Joel: date unc.: pre-exile, early 6c
+  + Isr. already **rebellious**
+  + **warn** of coming judgment
+  + **still time** to repent
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -60,6 +61,7 @@ Because there is no **pasture** for them
 
 >>>
 + natural **disasters**
+  + **broken** creation bc **sin**
 + **economy** in freefall
 + next: **violence**, war, instability
 
@@ -72,7 +74,9 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the Lord** is coming.
 
 >>>
-+ God sends an army
++ *day of the Lord*: judgment
+  + 3:14 *valley of decision*
+  + sharp cut, divide
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
@@ -89,29 +93,53 @@ his forces are **beyond number** ...
 The **day of the Lord** is great; it is dreadful. <br/>
 Who can **endure** it?
 
+>>>
++ *thunders*: what does God say? v12
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+# Do I **anticipate** <br/> the day of the Lord <br/> or **ignore** it?
+
+>>>
++ "can't **do** anything about it"
+  + &rArr; go about own biz
++ "**too late** now, I'm irredeemable"
+  + already **messed** up,
+  + might as well go **all the way**
+  + &rArr; I **like** my life of sin
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Outline
 
 ---
-## 2. God's Call
-
----
 <span class="ref">(2:12)</span>
 “**Even now**,” declares the Lord,
 
 “**return** to me with all your **heart**, <br/>
-with fasting and **weeping** and mourning.
-
-<span class="ref">13</span>
-Rend your **heart** and not your **garments**."
+with fasting and **weeping** and mourning."
 
 >>>
-+
++ **still** time, not too late yet
+  + in midst of **disaster**
++ not just external **apology**
++ rend the **heart**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
+<span class="ref">(2:13)</span>
+Rend your **heart** and not your **garments**
+
+>>>
++ JJ hit mom: pray, sorry, done, go play?
++ can't force a **change of heart**
+
+---
+## Revelation 9:20 <span class="ref">(NIV)</span>
+The rest of **mankind**
+who were not killed by these **plagues**
+
+still did **not repent** of the work of their hands
 
 ---
 <span class="ref">(2:13)</span>
@@ -122,8 +150,8 @@ for he is **gracious** and **compassionate**,
 and he **relents** from sending calamity.
 
 >>>
-+ Exodus 34:5-6
 + **nature** of God
++ Exodus 34:5-6
 
 ---
 <span class="ref">(2:15)</span>
@@ -134,27 +162,21 @@ declare a holy **fast**, call a sacred **assembly**.
 **Gather** the people, **consecrate** the assembly
 
 >>>
-+ elders, child/infant
-+ bride/groom
-+ priests
-
----
-## Revelation 9:20 <span class="ref">(NIV)</span>
-The rest of **mankind**
-who were not killed by these **plagues**
-
-still did **not repent** of the work of their hands
++ **corporate** repentance
++ elders: civic leaders
++ child/infant: involve, not exclude
++ bride/groom: pre-empt
++ priests weep at the altar
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# Will we **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Outline
 
 ---
-## 4. Promise of Restoration
 <span class="ref">(2:18, NASB)</span>
 Then the Lord will be **zealous** for His land
 And will have **pity** on His people.
@@ -162,19 +184,20 @@ And will have **pity** on His people.
 >>>
 + *zealous*/jealous
 + *pity*: compassion
++ echo 3 groups in ch1:
+  + land, animals, people
 
 ---
 <span class="ref">(2:21, NASB)</span>
-Do not fear, O **land**, <br/>
-rejoice and be glad, <br/>
-For the Lord has done **great** things.
+Do not fear, O **land**,
 
->>>
-+ echoing 3 groups in ch1
+rejoice and be glad, <br/>
+for the Lord has done **great** things.
 
 ---
 <span class="ref">(2:22, NASB)</span>
-Do not fear, **beasts** of the field, <br/>
+Do not fear, **beasts** of the field,
+
 For the **pastures** of the wilderness <br/>
 have turned **green**
 
@@ -185,6 +208,14 @@ And be glad in the **Lord your God**;
 
 For He has given you <br/>
 the early **rain** for your **vindication**.
+
+---
+<span class="ref">(2:23)</span>
+I will **repay** you for <br/>
+the years the **locusts** have eaten
+
+>>>
++ *repay*: shalom, make even
 
 ---
 <span class="ref">(2:27)</span>
@@ -239,7 +270,7 @@ whom the Lord **calls**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q4
+# Q3
 
 ---
 ## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
