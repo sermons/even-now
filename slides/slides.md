@@ -38,7 +38,7 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. **Ruin**: The *Day of the Lord* <span class="ref">(2:11)</span>
+1. **Ruin**: The *Day of the LORD* <span class="ref">(2:11)</span>
 2. **Return**: The *Call* of God <span class="ref">(2:12-13)</span>
 3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
 
@@ -161,7 +161,8 @@ and the **stars** no longer shine.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 <span class="ref">(2:11)</span>
-The LORD **thunders** at the head of his army; <br/>
+The LORD **thunders** <br/>
+at the head of his army; <br/>
 his forces are **beyond number** ...
 
 The **day of the LORD** is great; it is dreadful. <br/>
@@ -173,7 +174,7 @@ Who can **endure** it?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I **anticipate** <br/> the day of the Lord <br/> or **ignore** it?
+# Do I **anticipate** <br/> the day of the LORD <br/> or **ignore** it?
 
 >>>
 + "can't **do** anything about it"
@@ -186,7 +187,7 @@ Who can **endure** it?
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
+1. Ruin: The Day of the LORD <span class="ref">(2:11)</span>
 2. **Return: The Call of God** <span class="ref">(2:12-13)</span>
 3. Restoration: The Promise of God <span class="ref">(2:26-28)</span>
 
@@ -250,11 +251,10 @@ and he **relents** from sending calamity.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-<span class="ref">(2:15)</span>
+<span class="ref">(2:15-16)</span>
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
 
-<span class="ref">16</span>
 **Gather** the people, **consecrate** the assembly
 
 <div class="caption">
@@ -276,15 +276,16 @@ declare a holy **fast**, call a sacred **assembly**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
+1. Ruin: The Day of the LORD <span class="ref">(2:11)</span>
 2. Return: The Call of God <span class="ref">(2:12-13)</span>
 3. **Restoration: The Promise of God** <span class="ref">(2:26-28)</span>
 
 ---
 ## 3. The Promise of God
-+ Restored **Nature**: *land*, *animals*, *people*
-  <span class="ref">(2:18-27)</span>
++ Restored **Nature** <span class="ref">(2:18-27)</span>
+  + *land*, *animals*, *people*
 + Renewed **Spirit** <span class="ref">(2:28-32)</span>
+  + to all who *call* on His name
 + Redeemed **Nation** <span class="ref">(ch3)</span>
 
 ---
@@ -362,6 +363,8 @@ Musée du Louvre, Paris)
 
 >>>
 + Acts 2: Pentecost
++ miraculous **signs**:
+  + both **awesome** and **awful**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
