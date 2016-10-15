@@ -8,6 +8,7 @@
 # **what** do we do?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Jonah_Preaches_to_the_Ninevites.jpg" -->
 <span class="ref">(Jonah 3:4)</span>
 **Forty** more days and <br/>
 **Nineveh** will be overthrown
@@ -37,6 +38,12 @@
 <span class="ref">(1:4)<sup>NIV</sup></span>
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
+
+<div class="caption">
+(img &copy; 2009
+[Wild Center](https://www.flickr.com/photos/thewildcenter/5574220011),
+CC BY-NC 2.0)
+</div>
 
 >>>
 + 4 stages of locust growth
