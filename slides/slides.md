@@ -98,6 +98,12 @@ How the **beasts** groan!
 The **herds** of cattle wander aimlessly <br/>
 Because there is no **pasture** for them
 
+<div class="caption">
+(img &copy;
+[@VirtualSteve](https://commons.wikimedia.org/wiki/File%3ARiverina_Sheep_%28during_drought%29.jpg),
+GFDL / CC BY-SA 3.0)
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="ref">(1:12)<sup>NASB</sup></span>
