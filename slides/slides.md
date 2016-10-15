@@ -188,10 +188,10 @@ and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
 >>>
-1. God is **here** (Canada)
+1. God is **here** (midst) (Canada)
 2. God is **our** God (relationship, covenant)
 3. God is the **only** God
-4. God is our **glory**
+4. God is our **vindication**
 
 ---
 <span class="ref">28</span>
