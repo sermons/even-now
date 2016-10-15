@@ -18,9 +18,8 @@
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Outline
-1. **The Day of the Lord** <span class="ref">(v11)</span>
-2. **God's Call** <span class="ref">(v12-13)</span>
-3. **Our Response** <span class="ref">(v15-17)</span>
+1. **The Day of the Lord** <span class="ref">(2:11)</span>
+2. **Rend and Return** <span class="ref">(2:12-13)</span>
 4. **Promise of Restoration** <span class="ref">(v26-28)</span>
 
 ---
@@ -30,23 +29,32 @@ the **great locusts** have eaten
 
 >>>
 + 4 stages of locust growth
-+ TODO bg: locust swarm
++ short-horned grasshoppers
+  + normally **solitary**, but
+  + **swarm** when crowded
++ Albert's swarm of 1875:
+  + Rockies/W-US, 0.5M-km2, 3T
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
 <span class="ref">(1:10, NASB)</span>
-The **land** mourns; for the **grain** is ruined
-
-<span class="ref">18</span>
-How the **beasts** groan! <br/>
-The herds of cattle wander aimlessly <br/>
-Because there is no **pasture** for them
-
-<span class="ref">12</span>
-**Rejoicing** dries up from the **sons of men**
+The **land** mourns; <br/>
+for the **grain** is ruined
 
 >>>
 + 3 categories of mourners
   + land, animals, people
+
+---
+<span class="ref">(1:18, NASB)</span>
+How the **beasts** groan!
+
+The herds of cattle wander aimlessly <br/>
+Because there is no **pasture** for them
+
+---
+<span class="ref">(1:12, NASB)</span>
+**Rejoicing** dries up from the **sons of men**
 
 ---
 <span class="ref">(2:1)</span>
@@ -57,14 +65,9 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the Lord** is coming.
 
 ---
-<span class="ref">(2:1)</span>
-It is **close** at hand — <br/>
-<span class="ref">2</span>
-a day of **darkness** and gloom, <br/>
-a day of **clouds** and blackness.
-
-Like **dawn spreading** across the mountains <br/>
-a large and mighty **army** comes
+<span class="ref">(2:10)</span>
+The **sun** and **moon** are darkened, <br/>
+and the **stars** no longer shine.
 
 ---
 <span class="ref">(2:11)</span>
@@ -73,25 +76,6 @@ his forces are **beyond number** ...
 
 The **day of the Lord** is great; it is dreadful. <br/>
 Who can **endure** it?
-
->>>
-+ Matthew 24:7?
-
----
-## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
-Though the **fig tree** does not bud <br/>
-and there are no **grapes** on the vines,
-
-though the **olive crop** fails <br/>
-and the **fields** produce no food,
-
-though there are no **sheep** in the pen <br/>
-and no **cattle** in the stalls,
-
----
-## Habakkuk 3:18 <span class="ref">(NIV) (p.2/2)</span>
-yet I will **rejoice in the Lord**, <br/>
-I will be **joyful in God** my Savior.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -153,26 +137,11 @@ declare a holy **fast**, call a sacred **assembly**.
 + priests
 
 ---
-<span class="ref">(2:17)</span>
-Let them say, “**Spare** your people, Lord.
-
-Do not make your **inheritance** <br/>
-an object of **scorn**, <br/>
-a **byword** among the nations.
-
-Why should they **say** among the peoples, <br/>
-‘**Where is their God?**’”
-
->>>
-+ **priests**, ministering at temple
-+ not bc of our **righteousness**
-+ not let **name** of Lord be **defamed**
-
----
 ## Revelation 9:20
+The rest of **mankind**
+who were not killed by these **plagues**
 
->>>
-stones, still refuse to repent
+still did **not repent** of the work of their hands
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -197,18 +166,21 @@ And will have **pity** on His people.
 Do not fear, O **land**, rejoice and be glad, <br/>
 For the Lord has done **great** things.
 
-<span class="ref">22</span>
-Do not fear, **beasts** of the field, <br/>
-For the **pastures** of the wilderness have turned green,
-
-<span class="ref">23</span>
-So rejoice, O **sons of Zion**, <br/>
-And be glad in the **Lord your God**; <br/>
-For He has given you <br/>
-the early **rain** for your vindication.
-
 >>>
 + echoing 3 groups in ch1
+
+---
+<span class="ref">(2:22, NASB)</span>
+Do not fear, **beasts** of the field, <br/>
+For the **pastures** of the wilderness have turned **green**
+
+---
+<span class="ref">(2:23, NASB)</span>
+So rejoice, O **sons of Zion**, <br/>
+And be glad in the **Lord your God**;
+
+For He has given you <br/>
+the early **rain** for your **vindication**.
 
 ---
 <span class="ref">(2:27)</span>
@@ -236,24 +208,28 @@ your young men will see **visions**.
 + Acts 2: Pentecost
 
 ---
-<span class="ref">(2:30)</span>
-I will show **wonders** <br/>
-in the heavens and on the earth, <br/>
-**blood** and **fire** and billows of **smoke**.
-
-<span class="ref">31</span>
+<span class="ref">(2:31)</span>
 The sun will be turned to **darkness** <br/>
 and the moon to **blood**
 
 before the coming of the great <br/>
 and dreadful **day of the Lord**.
 
+>>>
++ echo 2:10
++ next: the Lord **speaks**/thunders
+
 ---
 <span class="ref">(2:32)</span>
-And everyone who calls <br/>
-on the **name of the Lord** will be **saved**
+And everyone who calls on <br/>
+the **name of the Lord** will be **saved**
+
+<span class="ref">[...]</span>
+even among the **survivors** <br/>
+whom the Lord **calls**
 
 >>>
++ remnant will return
 + Rom 10
 + 3:15-16 Lord roars &rarr; refuge
 
@@ -262,8 +238,20 @@ on the **name of the Lord** will be **saved**
 # Q4
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-## Outline
+## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
+Though the **fig tree** does not bud <br/>
+and there are no **grapes** on the vines,
+
+though the **olive crop** fails <br/>
+and the **fields** produce no food,
+
+though there are no **sheep** in the pen <br/>
+and no **cattle** in the stalls,
+
+---
+## Habakkuk 3:18 <span class="ref">(NIV) (p.2/2)</span>
+yet I will **rejoice in the Lord**, <br/>
+I will be **joyful in God** my Savior.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
