@@ -40,7 +40,7 @@ the **great locusts** have eaten
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
 <span class="ref">(1:10)<sup>NASB</sup></span>
-The **land** mourns; <br/>
+The **land** mourns, <br/>
 for the **grain** is ruined
 
 >>>
@@ -51,7 +51,7 @@ for the **grain** is ruined
 <span class="ref">(1:18)<sup>NASB</sup></span>
 How the **beasts** groan!
 
-The herds of cattle wander aimlessly <br/>
+The **herds** of cattle wander aimlessly <br/>
 Because there is no **pasture** for them
 
 ---
@@ -136,7 +136,7 @@ Rend your **heart** and not your **garments**
 
 ---
 ## Revelation 9:20 <span class="ref">(NIV)</span>
-The rest of **mankind**
+The rest of **mankind** <br/>
 who were not killed by these **plagues**
 
 still did **not repent** of the work of their hands
