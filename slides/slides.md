@@ -170,7 +170,7 @@ declare a holy **fast**, call a sacred **assembly**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Will we **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
+# Will we <br/> **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -178,7 +178,8 @@ declare a holy **fast**, call a sacred **assembly**.
 
 ---
 <span class="ref">(2:18)<sup>NASB</sup></span>
-Then the Lord will be **zealous** for His land
+Then the Lord <br/>
+will be **zealous** for His land <br/>
 And will have **pity** on His people.
 
 >>>
@@ -220,7 +221,7 @@ the years the **locusts** have eaten
 ---
 <span class="ref">(2:27)</span>
 Then you will know that I am **in Israel**, <br/>
-that I am the **Lord your God**, <br/>
+that I am the Lord **your God**, <br/>
 and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
