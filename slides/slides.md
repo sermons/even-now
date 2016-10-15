@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 # Even Now, <br/> Return to Me
 ## Joel 2:11-13
 
@@ -7,11 +7,25 @@
 # **Disaster** <br/> is upon us --
 # **what** do we do?
 
+>>>
++ times of **crisis**:
+  + turning pt, decision, judge
++ **reveals** depth of our faith
++ not just **personal** disaster:
+  + **world** history coming to a close
+  + God **warns** us so we can **repent**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Jonah_Preaches_to_the_Ninevites.jpg" -->
 <span class="ref">(Jonah 3:4)</span>
 **Forty** more days and <br/>
 **Nineveh** will be overthrown
+
+<div class="caption">
+(img: Gustave Doré,
+[*Jonah Preaches to the Ninevites*](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg),
+1866)
+</div>
 
 >>>
 + review Jonah: God's grace, our mission
@@ -22,27 +36,27 @@
   + **still time** to repent
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
 1. **Ruin**: The *Day of the Lord* <span class="ref">(2:11)</span>
 2. **Return**: The *Call* of God <span class="ref">(2:12-13)</span>
 3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
 
 >>>
-+ TODO: pt3 key verse? 
++ TODO: pt3 key verse?
 
 ---
 ## 1. The Day of the Lord
 + **Natural** disasters: *famine*, drought <span class="ref">(ch1)</span>
-  + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>,
+  + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>, <br/>
     *farmers* <span class="ref">(1:11-12)</span>,
     *priests* <span class="ref">(1:13-14)</span>
-  + **Mourners**: the *land* <span class="ref">(1:10)</span>,
+  + Mourners: the *land* <span class="ref">(1:10)</span>, <br/>
     *animals* <span class="ref">(1:18)</span>,
     *people* <span class="ref">(1:12)</span>
 + **Human** disasters: *armies* of God <span class="ref">(2:1-11)</span>
   + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
-  + The **LORD** thunders <span class="ref">(2:11)</span>
+  + The *LORD* thunders <span class="ref">(2:11)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Wild_Center-5574220011-locust_swarm.jpg" -->
@@ -77,6 +91,7 @@ for the **grain** is ruined
   + land, animals, people
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Riverina_Sheep_during_drought.jpg" -->
 <span class="ref">(1:18)<sup>NASB</sup></span>
 How the **beasts** groan!
 
@@ -89,9 +104,14 @@ Because there is no **pasture** for them
 **Rejoicing** dries up from the **sons of men**
 
 ---
-## The Day of the Lord
-+ Natural disasters: famine, drought
-+ **Human disasters**: *armies* of God
+## 1. The Day of the Lord
++ Natural disasters: famine, drought <span class="ref">(ch1)</span>
+  + Mourners: the land <span class="ref">(1:10)</span>, <br/>
+    animals <span class="ref">(1:18)</span>,
+    people <span class="ref">(1:12)</span>
++ **Human disasters: armies of God** <span class="ref">(2:1-11)</span>
+  + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
+  + The *LORD* thunders <span class="ref">(2:11)</span>
 
 >>>
 + natural **disasters**
@@ -144,7 +164,7 @@ Who can **endure** it?
   + &rArr; I **like** my life of sin
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
 1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
 2. **Return: The Call of God** <span class="ref">(2:12-13)</span>
@@ -224,7 +244,7 @@ declare a holy **fast**, call a sacred **assembly**.
 # Will we <br/> **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
 1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
 2. Return: The Call of God <span class="ref">(2:12-13)</span>
@@ -261,6 +281,7 @@ for the Lord has done **great** things.
 + grain/wine/oil: (1:10) (2:19,24) (3:13)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
 <span class="ref">(2:22)<sup>NASB</sup></span>
 Do not fear, **beasts** of the field,
 
@@ -358,7 +379,7 @@ yet I will **rejoice in the Lord**, <br/>
 I will be **joyful in God** my Savior.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" class="empty" -->
 
 >>>
 + locust (1:4) (2:25)
