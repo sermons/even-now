@@ -2,38 +2,18 @@
 # Even Now, <br/> Return to Me
 ## Joel 2:11-13
 
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q0
+
+---
 >>>
 + review Jonah: God's grace, our mission
-  + "3 days, Nineveh overthrown!"
+  + "40 days, Nineveh overthrown!"
   + &rArr; **grace**: opport. to repent
 + Joel: date unc,
   + either very early (late 9c)
   + or very late (pre-exile, early 6c)
-+ locust (1:4) (2:25)
-  + nation invades (1:6) (2:2)
-+ weep, wine drinkers (1:5)
-  + land mourns (1:10) (2:21)
-  + grain/wine/oil (1:10) (2:19,24) (3:13)
-+ wail, farmers (1:11)
-  + trees + joy (1:12) (2:22-23)
-+ lament, priests (1:13) (2:17)
-  + grain/drink offering (1:9,13) (2:14)
-  + fast/assembly (1:14) (2:15-17)
-+ beasts groan (1:18) (2:22)
-+ .
-+ reproach, where is God (2:17) (2:27) (3:17)
-+ Spirit (2:28-29)
-+ call on Lord, escape (2:32)
-+ .
-+ army (2:1-10) (2:20) (3:9-11)
-  + wine press (2:24) (3:13): judgment
-  + sun/moon dark (2:10 army) (2:31 day) (3:15 decision)
-  + **LORD roars** (2:11) (2:32 calls) (3:16 refuge)
-  + water (1:10-12) (2:21-24) (3:18)
-
----
-<!-- .slide: class="Q" data-background="white" -->
-# Q0
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -287,3 +267,26 @@ on the **name of the Lord** will be **saved**
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" class="empty" -->
+
+>>>
++ locust (1:4) (2:25)
+  + nation invades (1:6) (2:2)
++ weep, wine drinkers (1:5)
+  + land mourns (1:10) (2:21)
+  + grain/wine/oil (1:10) (2:19,24) (3:13)
++ wail, farmers (1:11)
+  + trees + joy (1:12) (2:22-23)
++ lament, priests (1:13) (2:17)
+  + grain/drink offering (1:9,13) (2:14)
+  + fast/assembly (1:14) (2:15-17)
++ beasts groan (1:18) (2:22)
++ .
++ reproach, where is God (2:17) (2:27) (3:17)
++ Spirit (2:28-29)
++ call on Lord, escape (2:32)
++ .
++ army (2:1-10) (2:20) (3:9-11)
+  + wine press (2:24) (3:13): judgment
+  + sun/moon dark (2:10 army) (2:31 day) (3:15 decision)
+  + **LORD roars** (2:11) (2:32 calls) (3:16 refuge)
+  + water (1:10-12) (2:21-24) (3:18)
