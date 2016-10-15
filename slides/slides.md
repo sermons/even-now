@@ -163,8 +163,7 @@ and the **stars** no longer shine.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 <span class="ref">(2:11)</span>
 The LORD **thunders** <br/>
-at the head of his army; <br/>
-his forces are **beyond number** ...
+at the head of his army ...
 
 The **day of the LORD** is great; it is dreadful. <br/>
 Who can **endure** it?
@@ -343,6 +342,13 @@ And be glad in the **LORD your God**;
 For He has given you <br/>
 the early **rain** for your **vindication**.
 
+>>>
++ *vindication*: proved right
+  + for our **trust** in God
++ our **joy** is God **Himself**
+  + not just His **blessings**
++ God even mentions the **locusts**:
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
 <span class="ref">(2:23)</span>
@@ -351,6 +357,9 @@ the years the **locusts** have eaten
 
 >>>
 + *repay*: shalom, make even
++ **Why** does God bless us?
+  + Not bc we're **entitled**
+  + Not **suffer** more &rArr; bless more
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
