@@ -274,6 +274,7 @@ your young men will see **visions**.
 + TODO: trim last half?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
 <span class="ref">(2:31)</span>
 The sun will be turned to **darkness** <br/>
 and the moon to **blood**
@@ -282,7 +283,7 @@ before the coming of the great <br/>
 and dreadful **day of the Lord**.
 
 >>>
-+ echo 2:10
++ echo v10
 + next: the Lord **speaks**/thunders
 
 ---
