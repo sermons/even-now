@@ -79,7 +79,7 @@ CC BY-NC 2.0)
   + Albert's swarm
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-YuVzPOBuuf0-grain_broken.jpg" -->
 <span class="ref">(1:10)<sup>NASB</sup></span>
 The **land** mourns, <br/>
 for the **grain** is ruined
