@@ -175,7 +175,7 @@ Who can **endure** it?
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I **anticipate** <br/> the day of the LORD <br/> or **ignore** it?
+# Do I **anticipate** the <br/> day of the LORD <br/> or **ignore** it?
 
 >>>
 + "can't **do** anything about it"
