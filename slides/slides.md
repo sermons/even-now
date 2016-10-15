@@ -113,6 +113,7 @@ Who can **endure** it?
 ## Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 <span class="ref">(2:12)</span>
 “**Even now**,” declares the Lord,
 
