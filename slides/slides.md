@@ -336,6 +336,7 @@ For the **pastures** of the wilderness <br/>
 have turned **green**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
 <span class="ref">(2:23)<sup>NASB</sup></span>
 So rejoice, O **sons of Zion**, <br/>
 And be glad in the **LORD your God**;
@@ -344,6 +345,7 @@ For He has given you <br/>
 the early **rain** for your **vindication**.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-vGQ49l9I4EE-grapes_hands.jpg" -->
 <span class="ref">(2:23)</span>
 I will **repay** you for <br/>
 the years the **locusts** have eaten
@@ -398,7 +400,7 @@ and dreadful **day of the LORD**
   + what does He say?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 <span class="ref">(2:32)</span>
 And everyone who calls on <br/>
 the **name of the LORD** will be **saved**
