@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# **Disaster** has <br/> struck our land.
+# **Disaster** has <br/> already struck.
 # **What** do we do?
 
 ---
@@ -25,7 +25,7 @@
 4. **Promise of Restoration** <span class="ref">(v26-28)</span>
 
 ---
-<span class="ref">(1:4)</span>
+<span class="ref">(1:4)<sup>NIV</sup></span>
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
 
@@ -39,7 +39,7 @@ the **great locusts** have eaten
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
-<span class="ref">(1:10, NASB)</span>
+<span class="ref">(1:10)<sup>NASB</sup></span>
 The **land** mourns; <br/>
 for the **grain** is ruined
 
@@ -48,7 +48,7 @@ for the **grain** is ruined
   + land, animals, people
 
 ---
-<span class="ref">(1:18, NASB)</span>
+<span class="ref">(1:18)<sup>NASB</sup></span>
 How the **beasts** groan!
 
 The herds of cattle wander aimlessly <br/>
@@ -56,7 +56,7 @@ Because there is no **pasture** for them
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
-<span class="ref">(1:12, NASB)</span>
+<span class="ref">(1:12)<sup>NASB</sup></span>
 **Rejoicing** dries up from the **sons of men**
 
 >>>
@@ -177,7 +177,7 @@ declare a holy **fast**, call a sacred **assembly**.
 ## Outline
 
 ---
-<span class="ref">(2:18, NASB)</span>
+<span class="ref">(2:18)<sup>NASB</sup></span>
 Then the Lord will be **zealous** for His land
 And will have **pity** on His people.
 
@@ -188,21 +188,21 @@ And will have **pity** on His people.
   + land, animals, people
 
 ---
-<span class="ref">(2:21, NASB)</span>
+<span class="ref">(2:21)<sup>NASB</sup></span>
 Do not fear, O **land**,
 
 rejoice and be glad, <br/>
 for the Lord has done **great** things.
 
 ---
-<span class="ref">(2:22, NASB)</span>
+<span class="ref">(2:22)<sup>NASB</sup></span>
 Do not fear, **beasts** of the field,
 
 For the **pastures** of the wilderness <br/>
 have turned **green**
 
 ---
-<span class="ref">(2:23, NASB)</span>
+<span class="ref">(2:23)<sup>NASB</sup></span>
 So rejoice, O **sons of Zion**, <br/>
 And be glad in the **Lord your God**;
 
