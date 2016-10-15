@@ -246,6 +246,7 @@ still did **not repent** of the work of their hands
 </div>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 <span class="ref">(2:13)</span>
 **Return** to the LORD your God, <br/>
 for he is **gracious** and **compassionate**,
@@ -297,10 +298,17 @@ declare a holy **fast**, call a sacred **assembly**.
 + Redeemed **Nation** <span class="ref">(ch3)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
 <span class="ref">(2:18)<sup>NASB</sup></span>
 Then the LORD <br/>
 will be **zealous** for His land <br/>
 And will have **pity** on His people.
+
+<div class="caption">
+(img: John Bridges,
+["Christ Healing the Mother of Simon Peter’s Wife"](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg),
+1839. Birmingham Museum of Art)
+</div>
 
 >>>
 + *zealous*/jealous
