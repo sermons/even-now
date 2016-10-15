@@ -28,8 +28,11 @@
 2. **Return**: The *Call* of God <span class="ref">(2:12-13)</span>
 3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
 
+>>>
++ TODO: pt3 key verse? 
+
 ---
-## The Day of the Lord
+## 1. The Day of the Lord
 + **Natural** disasters: *famine*, drought <span class="ref">(ch1)</span>
   + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>,
     *farmers* <span class="ref">(1:11-12)</span>,
@@ -148,6 +151,12 @@ Who can **endure** it?
 3. Restoration: The Promise of God <span class="ref">(2:26-28)</span>
 
 ---
+## 2. The Call of God
++ **Rend** Your Heart <span class="ref">(2:13)</span>
++ **Rally** the Survivors <span class="ref">(2:15-17)</span>
++ **Return** to the LORD our God <span class="ref">(2:12)</span>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 <span class="ref">(2:12)</span>
 “**Even now**,” declares the Lord,
@@ -220,6 +229,13 @@ declare a holy **fast**, call a sacred **assembly**.
 1. Ruin: The Day of the Lord <span class="ref">(2:11)</span>
 2. Return: The Call of God <span class="ref">(2:12-13)</span>
 3. **Restoration: The Promise of God** <span class="ref">(2:26-28)</span>
+
+---
+## 3. The Promise of God
++ Restored **Nature**: *land*, *animals*, *people*
+  <span class="ref">(2:18-27)</span>
++ Renewed **Spirit** <span class="ref">(2:28-32)</span>
++ Redeemed **Nation** <span class="ref">(ch3)</span>
 
 ---
 <span class="ref">(2:18)<sup>NASB</sup></span>
