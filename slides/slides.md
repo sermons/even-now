@@ -53,6 +53,22 @@ the **great locusts** have eaten
 + TODO bg: locust swarm
 
 ---
+<span class="ref">(1:10, NASB)</span>
+The **land** mourns; for the **grain** is ruined
+
+<span class="ref">18</span>
+How the **beasts** groan! <br/>
+The herds of cattle wander aimlessly <br/>
+Because there is no **pasture** for them
+
+<span class="ref">12</span>
+**Rejoicing** dries up from the **sons of men**
+
+>>>
++ 3 categories of mourners
+  + land, animals, people
+
+---
 <span class="ref">(2:1)</span>
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
@@ -188,6 +204,31 @@ stones, still refuse to repent
 
 ---
 ## 4. Promise of Restoration
+<span class="ref">(2:18, NASB)</span>
+Then the Lord will be **zealous** for His land
+And will have **pity** on His people.
+
+>>>
++ *zealous*/jealous
++ *pity*: compassion
+
+---
+<span class="ref">(2:21, NASB)</span>
+Do not fear, O **land**, rejoice and be glad, <br/>
+For the Lord has done **great** things.
+
+<span class="ref">22</span>
+Do not fear, **beasts** of the field, <br/>
+For the **pastures** of the wilderness have turned green,
+
+<span class="ref">23</span>
+So rejoice, O **sons of Zion**, <br/>
+And be glad in the **Lord your God**; <br/>
+For He has given you <br/>
+the early **rain** for your vindication.
+
+>>>
++ echoing 3 groups in ch1
 
 ---
 <span class="ref">(2:27)</span>
