@@ -23,7 +23,7 @@
 
 <div class="caption">
 (img: Gustave Doré,
-[*Jonah Preaches to the Ninevites*](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg),
+["Jonah Preaches to the Ninevites"](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg),
 1866)
 </div>
 
@@ -329,6 +329,7 @@ never again will my people be **shamed**.
 4. God is our **vindication**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Restout-Pentecost.jpg" -->
 <span class="ref">(2:28)</span>
 And afterward, I will pour out <br/>
 **my Spirit** on all people.
@@ -336,6 +337,12 @@ And afterward, I will pour out <br/>
 Your sons and daughters will **prophesy**, <br/>
 your old men will dream **dreams**, <br/>
 your young men will see **visions**.
+
+<div class="caption">
+(img: Jean Restout,
+["Pentecost"](http://www.wga.hu/html/r/restout/jean2/pentecos.html),
+Musée du Louvre, Paris)
+</div>
 
 >>>
 + Acts 2: Pentecost
