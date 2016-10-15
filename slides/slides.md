@@ -39,12 +39,12 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. **Ruin**: The *Day of the LORD* <span class="ref">(2:11)</span>
-2. **Return**: The *Call* of God <span class="ref">(2:12-13)</span>
-3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
+1. **Ruin**: The *Day of the LORD* <span class="ref">(1:1-2:11)</span>
+2. **Return**: The *Call* of God <span class="ref">(2:12-17)</span>
+3. **Restoration**: The *Promise* of God <span class="ref">(2:18-32)</span>
 
 >>>
-+ TODO: pt3 key verse?
++ **ruin** in 2 parts: ch1 + ch2a
 
 ---
 ## 1. The Day of the LORD
@@ -188,9 +188,9 @@ Who can **endure** it?
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD <span class="ref">(2:11)</span>
-2. **Return: The Call of God** <span class="ref">(2:12-13)</span>
-3. Restoration: The Promise of God <span class="ref">(2:26-28)</span>
+1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
+2. **Return: The Call of God** <span class="ref">(2:12-17)</span>
+3. Restoration: The Promise of God <span class="ref">(2:18-32)</span>
 
 >>>
 + v11 Lord **thunders** from army:
@@ -285,9 +285,9 @@ declare a holy **fast**, call a sacred **assembly**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD <span class="ref">(2:11)</span>
-2. Return: The Call of God <span class="ref">(2:12-13)</span>
-3. **Restoration: The Promise of God** <span class="ref">(2:26-28)</span>
+1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
+2. Return: The Call of God <span class="ref">(2:12-17)</span>
+3. **Restoration: The Promise of God** <span class="ref">(2:18-32)</span>
 
 ---
 ## 3. The Promise of God
