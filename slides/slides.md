@@ -232,11 +232,18 @@ Rend your **heart** and not your **garments**
 + can't force a **change of heart**
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Dore-Livestock_Disease.jpg" -->
 ## Revelation 9:20 <span class="ref">(NIV)</span>
 The rest of **mankind** <br/>
 who were not killed by these **plagues**
 
 still did **not repent** of the work of their hands
+
+<div class="caption">
+(img: Gustave Doré,
+["The Fifth Plague: Livestock"](https://commons.wikimedia.org/wiki/File%3A033.The_Fifth_Plague._Livestock_Disease.jpg),
+1866)
+</div>
 
 ---
 <span class="ref">(2:13)</span>
