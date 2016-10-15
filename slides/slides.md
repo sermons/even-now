@@ -344,7 +344,7 @@ For He has given you <br/>
 the early **rain** for your **vindication**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-vGQ49l9I4EE-grapes_hands.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
 <span class="ref">(2:23)</span>
 I will **repay** you for <br/>
 the years the **locusts** have eaten
