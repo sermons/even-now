@@ -136,7 +136,7 @@ GFDL / CC BY-SA 3.0)
 + **both** are consequences of sin
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">(2:1)</span>
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
@@ -337,6 +337,7 @@ the years the **locusts** have eaten
 + *repay*: shalom, make even
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
 <span class="ref">(2:27)</span>
 Then you will know that I am **in Israel**, <br/>
 that I am the LORD **your God**, <br/>
