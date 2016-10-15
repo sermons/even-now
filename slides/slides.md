@@ -46,7 +46,7 @@
 + TODO: pt3 key verse?
 
 ---
-## 1. The Day of the Lord
+## 1. The Day of the LORD
 + **Natural** disasters: *famine*, drought <span class="ref">(ch1)</span>
   + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>, <br/>
     *farmers* <span class="ref">(1:11-12)</span>,
@@ -57,6 +57,13 @@
 + **Human** disasters: *armies* of God <span class="ref">(2:1-11)</span>
   + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
   + The *LORD* thunders <span class="ref">(2:11)</span>
+
+>>>
++ **Natural** and **human**
+  + Both from God, **consequence** of sin
++ Natural: **land**, **animals**, **people**
++ Huge swarm of **locust**
+  + Followed by **drought**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Wild_Center-5574220011-locust_swarm.jpg" -->
@@ -75,8 +82,9 @@ CC BY-NC 2.0)
 + short-horned grasshoppers
   + normally **solitary**, but
   + **swarm** when crowded
-+ 1875: Rockies/W-US: 0.5M-km2, 3T
-  + Albert's swarm
+  + est 50M/km2
++ 1875: Rockies/W-US ("Albert's")
+  + 300k-km2 (BC), 1.5km high, ~3T
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-YuVzPOBuuf0-grain_broken.jpg" -->
@@ -85,10 +93,10 @@ The **land** mourns, <br/>
 for the **grain** is ruined
 
 >>>
++ 3 categories of **mourners**:
+  + **land**, **animals**, **people**
 + 3 primary **categories** of harvest:
   + **grain** + new **wine** + **oil**
-+ 3 categories of mourners
-  + land, animals, people
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Riverina_Sheep_during_drought.jpg" -->
@@ -110,7 +118,7 @@ GFDL / CC BY-SA 3.0)
 **Rejoicing** dries up from the **sons of men**
 
 ---
-## 1. The Day of the Lord
+## 1. The Day of the LORD
 + Natural disasters: famine, drought <span class="ref">(ch1)</span>
   + Mourners: the land <span class="ref">(1:10)</span>, <br/>
     animals <span class="ref">(1:18)</span>,
@@ -133,7 +141,7 @@ Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
 
 Let all who live in the land **tremble**, <br/>
-for the **day of the Lord** is coming.
+for the **day of the LORD** is coming.
 
 >>>
 + *day of the Lord*: judgment
@@ -146,17 +154,22 @@ for the **day of the Lord** is coming.
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
+>>>
++ Out of the **storm**
+  + God **speaks**:
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
 <span class="ref">(2:11)</span>
-The Lord **thunders** at the head of his army; <br/>
+The LORD **thunders** at the head of his army; <br/>
 his forces are **beyond number** ...
 
-The **day of the Lord** is great; it is dreadful. <br/>
+The **day of the LORD** is great; it is dreadful. <br/>
 Who can **endure** it?
 
 >>>
-+ *thunders*: what does God say? v12
++ foolish to think I can **handle** it
++ I have my: money, edu, house, smarts
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -190,7 +203,7 @@ Who can **endure** it?
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 <span class="ref">(2:12)</span>
-“**Even now**,” declares the Lord,
+“**Even now**,” declares the LORD,
 
 “**return** to me with all your **heart**, <br/>
 with fasting and **weeping** and mourning."
@@ -225,7 +238,7 @@ still did **not repent** of the work of their hands
 
 ---
 <span class="ref">(2:13)</span>
-**Return** to the Lord your God, <br/>
+**Return** to the LORD your God, <br/>
 for he is **gracious** and **compassionate**,
 
 **slow to anger** and **abounding in love**, <br/>
@@ -276,7 +289,7 @@ declare a holy **fast**, call a sacred **assembly**.
 
 ---
 <span class="ref">(2:18)<sup>NASB</sup></span>
-Then the Lord <br/>
+Then the LORD <br/>
 will be **zealous** for His land <br/>
 And will have **pity** on His people.
 
@@ -292,7 +305,7 @@ And will have **pity** on His people.
 Do not fear, O **land**,
 
 rejoice and be glad, <br/>
-for the Lord has done **great** things.
+for the LORD has done **great** things.
 
 >>>
 + grain/wine/oil: (1:10) (2:19,24) (3:13)
@@ -308,7 +321,7 @@ have turned **green**
 ---
 <span class="ref">(2:23)<sup>NASB</sup></span>
 So rejoice, O **sons of Zion**, <br/>
-And be glad in the **Lord your God**;
+And be glad in the **LORD your God**;
 
 For He has given you <br/>
 the early **rain** for your **vindication**.
@@ -324,7 +337,7 @@ the years the **locusts** have eaten
 ---
 <span class="ref">(2:27)</span>
 Then you will know that I am **in Israel**, <br/>
-that I am the Lord **your God**, <br/>
+that I am the LORD **your God**, <br/>
 and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
@@ -339,7 +352,7 @@ never again will my people be **shamed**.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Restout-Pentecost.jpg" -->
 <span class="ref">(2:28)</span>
 And afterward, I will pour out <br/>
-**my Spirit** on all people.
+**my Spirit** on all people
 
 <div class="caption">
 (img: Jean Restout,
@@ -357,29 +370,57 @@ The sun will be turned to **darkness** <br/>
 and the moon to **blood**
 
 before the coming of the great <br/>
-and dreadful **day of the Lord**.
+and dreadful **day of the LORD**
 
 >>>
-+ echo v10
-+ next: the Lord **speaks**/thunders
++ echo 2:10
++ next: the LORD **speaks**/thunders
+  + what does He say?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 <span class="ref">(2:32)</span>
 And everyone who calls on <br/>
-the **name of the Lord** will be **saved**
-
-<span class="ref">[...]</span>
-even among the **survivors** <br/>
-whom the Lord **calls**
+the **name of the LORD** will be **saved**
 
 >>>
-+ remnant will return
-+ Rom 10
-+ 3:15-16 Lord roars &rarr; refuge
++ **calls** from all nations (Ro10)
++ not rely own **might**/wisdom:
+  + I can handle it, **prepared**
++ not rely own **righteousness**:
+  + I did **my part**, ready for judgment
++ but call on **name of the LORD**:
+  + Rely fully on **grace**
++ 3:15-16 Lord **roars** once more:
+  + to rebellious: &rArr; **judgment**
+  + to obedient: &rarr; **refuge**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Is the **day of the Lord** <br/> **awesome** to me, <br/> or **awful**?
+# Am I **prepared** for <br/> the **day** of the **LORD**?
+
+>>>
++ I don't **think** about it:
+  + **Far** off, irrelevant
+  + Can't do anything **about** it
+  + Leads to **wackos**
++ I'm not **worried**, I'm ready:
+  + I can **handle** disaster (own **might**)
+  + I tried to be **good**
+    + Should be **good enough**
+    + (own **righteousness**)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<span class="ref">(2:32)</span>
+And everyone who calls on <br/>
+the **name of the LORD** will be **saved**
+
+>>>
++ **God** calls to us:
+  + **rend** your heart
+  + **rally** the congregation
+  + **return** to the Lord our God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" class="empty" -->
