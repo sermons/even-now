@@ -206,7 +206,7 @@ Who can **endure** it?
 <span class="ref">(2:12)</span>
 “**Even now**,” declares the LORD,
 
-“**return** to me with all your **heart**, <br/>
+“return to me with **all your heart**, <br/>
 with fasting and **weeping** and mourning."
 
 >>>
