@@ -20,9 +20,9 @@
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Joel: Even Now, Return
-1. **Ruin**: The Day of the Lord <span class="ref">(2:11)</span>
-2. **Return**: The Call of God <span class="ref">(2:12-13)</span>
-3. **Restoration**: The Promise of God <span class="ref">(2:26-28)</span>
+1. **Ruin**: The *Day of the Lord* <span class="ref">(2:11)</span>
+2. **Return**: The *Call* of God <span class="ref">(2:12-13)</span>
+3. **Restoration**: The *Promise* of God <span class="ref">(2:26-28)</span>
 
 ---
 <span class="ref">(1:4)<sup>NIV</sup></span>
