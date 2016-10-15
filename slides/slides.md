@@ -130,6 +130,10 @@ with fasting and **weeping** and mourning."
 <span class="ref">(2:13)</span>
 Rend your **heart** and not your **garments**
 
+<div class="caption">
+(img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0)
+</div>
+
 >>>
 + JJ hit mom: pray, sorry, done, go play?
 + can't force a **change of heart**
