@@ -300,10 +300,14 @@ slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
 
 >>>
-+ **return** to God, because:
-+ **nature** of God
-+ how God **re-introduces** self
++ **return** to God, because of
+  + the **nature** of God
++ how God (re-)**introduces** self
   + Mt Sinai (Ex 34:5-6)
++ **justice** + **mercy**
+  + kindness + severity
++ girl **crying**, upset at dad
+  + while **clinging** to his neck
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
