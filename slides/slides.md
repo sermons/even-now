@@ -46,7 +46,7 @@
 ## Joel: Even Now, Return
 1. **Ruin**: The *Day of the LORD* <span class="ref">(1:1-2:11)</span>
 2. **Return**: The *Call* of God <span class="ref">(2:12-17)</span>
-3. **Restoration**: The *Promise* of God <span class="ref">(2:18-32)</span>
+3. **Renewal**: The *Promise* of God <span class="ref">(2:18-32)</span>
 
 >>>
 + **ruin** in 2 parts: ch1 + ch2a
@@ -156,19 +156,25 @@ for the **day of the LORD** is coming.
 
 >>>
 + *day of the Lord*: **judgment**
-  + 3:14 *valley of decision*
-  + sharp cut, divide
++ 3:14 *valley of decision*
+  + sharp cut, divide:
+  + sheep vs goats
++ God **approaches** w/army
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 <span class="ref">(2:10)</span>
+Before them the **earth** shakes, <br/>
+the **heavens** tremble,
+
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
 >>>
-+ as God **approaches** w/army
-+ Out of the **storm**
-  + God **speaks**:
++ JJ: **heaven** play w/dinosaurs
++ but before that: **judgment**
++ all **creation** trembles
+  + before its **Creator**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
@@ -200,7 +206,7 @@ Who can **endure** it?
 ## Joel: Even Now, Return
 1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
 2. **Return: The Call of God** <span class="ref">(2:12-17)</span>
-3. Restoration: The Promise of God <span class="ref">(2:18-32)</span>
+3. Renewal: The Promise of God <span class="ref">(2:18-32)</span>
 
 >>>
 + v11 Lord **thunders** from army:
@@ -315,14 +321,14 @@ and he **relents** from sending calamity.
 ## Joel: Even Now, Return
 1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
 2. Return: The Call of God <span class="ref">(2:12-17)</span>
-3. **Restoration: The Promise of God** <span class="ref">(2:18-32)</span>
+3. **Renewal: The Promise of God** <span class="ref">(2:18-32)</span>
 
 >>>
 + when we **return** to God,
 + there is a **promise**:
 + the same awe-inspiring **power**
   + that **humbled** us
-  + now **restores** us
+  + now **rescues** us
 
 ---
 ## 3. The Promise of God
