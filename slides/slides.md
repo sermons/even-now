@@ -2,6 +2,11 @@
 # Even Now, <br/> Return to Me
 ## Joel 2:11-13
 
+>>>
++ praying **less** after **married**
+  + **crises** sharpen our **reliance** on God
++ **reality**: we are in the midst of **crisis**
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # **Disaster** <br/> is upon us --
@@ -11,7 +16,6 @@
 + times of **crisis**:
   + turning pt, decision, judge
 + **reveals** depth of our faith
-  + e.g., pray **less** after **married**
 + not just **personal** disaster:
   + **world** history coming to a close
   + God **warns** us so we can **repent**
