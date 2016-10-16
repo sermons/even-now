@@ -5,7 +5,7 @@
 >>>
 + praying **less** after **married**
   + **crises** sharpen our **reliance** on God
-+ **reality**: we are in the midst of **crisis**
++ **reality**: in midst of **crisis**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -17,8 +17,8 @@
   + turning pt, decision, judge
 + **reveals** depth of our faith
 + not just **personal** disaster:
-  + **world** history coming to a close
-  + God **warns** us so we can **repent**
+  + **world** history to a close
+  + **warn** so we can **repent**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Jonah_Preaches_to_the_Ninevites.jpg" -->
@@ -33,9 +33,9 @@
 </div>
 
 >>>
-+ review Jonah: God's grace, our mission
-  + &rArr; **grace**: opport. to repent
-+ Joel: date unc.: pre-exile, early 6c
++ Jnh: God's grace, our mission
+  + **grace**: opp. to repent
++ Joel: perh. pre-exile, early 6c
   + Isr. already **rebellious**
   + **warn** of coming judgment
   + **still time** to repent
@@ -88,8 +88,7 @@ CC BY-NC 2.0)
   + normally **solitary**, but
   + **swarm** when crowded
   + est 50M/km2
-+ 1875: Rockies/W-US ("Albert's")
-  + 300k-km2 (BC), 1.5km high, ~3T
++ 1875 Rocky/W-US: 300k-km2 (BC), 1.5km up, ~3T: Albert
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-YuVzPOBuuf0-grain_broken.jpg" -->
@@ -100,7 +99,7 @@ for the **grain** is ruined
 >>>
 + 3 categories of **mourners**:
   + **land**, **animals**, **people**
-+ 3 primary **categories** of harvest:
++ 3 categories of **harvest**:
   + **grain** + new **wine** + **oil**
 
 ---
@@ -183,9 +182,9 @@ Who can **endure** it?
 >>>
 + "can't **do** anything about it"
   + &rArr; go about own biz
-+ "**too late** now, I'm irredeemable"
++ "**too late**, irredeemable"
   + already **messed** up,
-  + might as well go **all the way**
+  + just go **all the way**
   + &rArr; I **like** my life of sin
 
 ---
@@ -351,7 +350,7 @@ the early **rain** for your **vindication**.
   + for our **trust** in God
 + our **joy** is God **Himself**
   + not just His **blessings**
-+ God even mentions the **locusts**:
++ God remem **locusts** too:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
@@ -422,7 +421,7 @@ the **name of the LORD** will be **saved**
 + not rely own **might**/wisdom:
   + I can handle it, **prepared**
 + not rely own **righteousness**:
-  + I did **my part**, ready for judgment
+  + I did **my part**, get reward
 + but call on **name of the LORD**:
   + Rely fully on **grace**
 + 3:15-16 Lord **roars** once more:
@@ -440,8 +439,8 @@ the **name of the LORD** will be **saved**
   + Leads to **wackos**
 + I'm not **worried**, I'm ready:
   + I can **handle** disaster (own **might**)
-  + I tried to be **good**
-    + Should be **good enough**
+  + I tried my **best**
+    + Good **enough**? 
     + (own **righteousness**)
 
 ---
@@ -454,7 +453,7 @@ the **name of the LORD** will be **saved**
 + **God** calls to us:
   + **rend** your heart
   + **rally** the congregation
-  + **return** to the Lord our God
+  + **return** to Lord our God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" class="empty" -->
