@@ -3,9 +3,10 @@
 ## Joel 2:11-13
 
 >>>
-+ praying **less** after **married**
-  + **crises** sharpen our **reliance** on God
-+ **reality**: in midst of **crisis**
++ pre-K: thunder storm, afraid:
+  + how **mighty** is our God!
++ in **fearful** times, how **respond**?
+  + living in the **latter days**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -15,7 +16,7 @@
 >>>
 + times of **crisis**:
   + turning pt, decision, judge
-+ **reveals** depth of our faith
++ **reveals** depth of faith
 + not just **personal** disaster:
   + **world** history to a close
   + **warn** so we can **repent**
@@ -83,8 +84,8 @@ CC BY-NC 2.0)
 </div>
 
 >>>
-+ 4 stages of locust growth
-+ short-horned grasshoppers
++ 4 **stages** of locust growth
++ short-horned **grasshoppers**
   + normally **solitary**, but
   + **swarm** when crowded
   + est 50M/km2
@@ -98,7 +99,7 @@ for the **grain** is ruined
 
 >>>
 + 3 categories of **mourners**:
-  + **land**, **animals**, **people**
+  + **land** + **animals** + **people**
 + 3 categories of **harvest**:
   + **grain** + new **wine** + **oil**
 
@@ -116,10 +117,19 @@ Because there is no **pasture** for them
 GFDL / CC BY-SA 3.0)
 </div>
 
+>>>
++ natural **disasters**
+  + **broken** creation bc **sin**
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="ref">(1:12)<sup>NASB</sup></span>
 **Rejoicing** dries up from the **sons of men**
+
+>>>
++ locust + drought &rArr; **famine**
++ &rArr; **economy** in freefall
++ **Human** cost
 
 ---
 ## 1. The Day of the LORD
@@ -132,9 +142,6 @@ GFDL / CC BY-SA 3.0)
   + The *LORD* thunders <span class="ref">(2:11)</span>
 
 >>>
-+ natural **disasters**
-  + **broken** creation bc **sin**
-+ &rArr; **economy** in freefall
 + next: **violence**, war, instability
 + **both** are consequences of sin
 
@@ -148,7 +155,7 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the LORD** is coming.
 
 >>>
-+ *day of the Lord*: judgment
++ *day of the Lord*: **judgment**
   + 3:14 *valley of decision*
   + sharp cut, divide
 
@@ -159,6 +166,7 @@ The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
 >>>
++ as God **approaches** w/army
 + Out of the **storm**
   + God **speaks**:
 
@@ -173,7 +181,7 @@ Who can **endure** it?
 
 >>>
 + foolish to think I can **handle** it
-+ I have my: money, edu, house, smarts
++ I have my: money, edu, smarts, ethics/morals
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -228,8 +236,8 @@ Rend your **heart** and not your **garments**
 </div>
 
 >>>
-+ JJ hit mom: pray, sorry, done, go play?
-+ punish: timeout, spank, etc.
++ JJ hit mom: pray, **sorry**, done, go play?
++ **punish** him? timeout, spank, etc.
   + &rArr; martyr!
 + can't force a **change of heart**
 
@@ -247,6 +255,14 @@ still did **not repent** of the work of their hands
 1866 .)
 </div>
 
+>>>
++ **crisis** of plagues
++ &rArr; 2 diff **responses**:
++ even more **rebellious**, or
++ even more **repentant** of sin
+  + **reliant** on God's grace
++ (1) rend your **heart**; next:
+
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 <span class="ref">(2:15-16)</span>
@@ -260,11 +276,13 @@ declare a holy **fast**, call a sacred **assembly**.
 </div>
 
 >>>
-+ **corporate** repentance
-+ elders: civic leaders
-+ child/infant: involve, not exclude
-+ bride/groom: pre-empt
-+ priests weep at the altar
++ (2) **rally** the faithful:
+  + **corporate** repentance
++ *elders*: civic **leaders**
++ *infant*: **involve**, not exclude
++ *bride*/groom: pre-empt
++ *priests*: weep at the **altar**
++ &rArr; rally to do what? 
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
@@ -276,12 +294,21 @@ slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
 
 >>>
++ **return** to God, because:
 + **nature** of God
-+ Exodus 34:5-6
++ how God **re-introduces** self
+  + Mt Sinai (Ex 34:5-6)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Will we <br/> **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
+
+>>>
++ together, not individual:
++ **sin** affects the community,
++ **disaster** strikes us all, so
++ **repentance**  is up to
+ + the **comm.** of the faithful
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
@@ -290,13 +317,29 @@ and he **relents** from sending calamity.
 2. Return: The Call of God <span class="ref">(2:12-17)</span>
 3. **Restoration: The Promise of God** <span class="ref">(2:18-32)</span>
 
+>>>
++ when we **return** to God,
++ there is a **promise**:
++ the same awe-inspiring **power**
+  + that **humbled** us
+  + now **restores** us
+
 ---
 ## 3. The Promise of God
-+ Restored **Nature** <span class="ref">(2:18-27)</span>
++ Renewed **Nature** <span class="ref">(2:18-27)</span>
   + Comfort: *land*, *animals*, *people*
-+ Renewed **Spirit** <span class="ref">(2:28-32)</span>
++ Redeemed **Spirit** <span class="ref">(2:28-32)</span>
   + To all who *call* on His name
-+ Redeemed **Nation** <span class="ref">(ch3)</span>
++ Restored **Nation** <span class="ref">(ch3)</span>
+
+>>>
++ sin corrupted **creation**
+  + God's grace can **renew** it
++ sin broke our **relationship** w/God
+  + God's Spirit can **redeem** it
++ sin made us the **laughingstock** of the nations
+  + God's power can **restore** + vindicate us
++ when we  humbly **repent**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
@@ -312,9 +355,10 @@ And will have **pity** on His people.
 </div>
 
 >>>
-+ *zealous*/jealous
-+ *pity*: compassion
-+ echo 3 groups in ch1:
++ God acts with both:
+  + **zeal**/jealousy: passion
+  + *pity*: **compassion**, tenderness
++ v21-23 echo 3 **groups** in ch1:
   + land, animals, people
 
 ---
@@ -336,6 +380,11 @@ Do not fear, **beasts** of the field,
 For the **pastures** of the wilderness <br/>
 have turned **green**
 
+>>>
++ the **animals** also:
++ from **mourning** to **joy**
++ and bc we **trust** in Him,
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
 <span class="ref">(2:23)<sup>NASB</sup></span>
@@ -346,10 +395,11 @@ For He has given you <br/>
 the early **rain** for your **vindication**.
 
 >>>
-+ *vindication*: proved right
-  + for our **trust** in God
++ **we** also rejoice:
 + our **joy** is God **Himself**
   + not just His **blessings**
++ *vindication*: proved right
+  + for our **trust** in God
 + God remem **locusts** too:
 
 ---
@@ -373,11 +423,11 @@ and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
 >>>
+So we will know:
 1. God is **here** (midst) (Canada)
-2. God is **our** God (relationship, covenant)
+2. God is **our** God (rl, covenant)
 3. God is the **only** God
 4. God is our **vindication**
-+ TODO: anecdote?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Restout-Pentecost.jpg" -->
@@ -392,6 +442,7 @@ And afterward, I will pour out <br/>
 </div>
 
 >>>
++ **redeem** broken rl w/God
 + Acts 2: Pentecost
 + miraculous **signs**:
   + both **awesome** and **awful**
@@ -416,12 +467,16 @@ and dreadful **day of the LORD**
 And everyone who calls on <br/>
 the **name of the LORD** will be **saved**
 
+... even among the **survivors** <br/>
+whom the Lord **calls**.
+
 >>>
 + **calls** from all nations (Ro10)
 + not rely own **might**/wisdom:
   + I can handle it, **prepared**
 + not rely own **righteousness**:
-  + I did **my part**, get reward
+  + tried my **best**:
+  + surely **good** enough? 
 + but call on **name of the LORD**:
   + Rely fully on **grace**
 + 3:15-16 Lord **roars** once more:
@@ -438,9 +493,8 @@ the **name of the LORD** will be **saved**
   + Can't do anything **about** it
   + Leads to **wackos**
 + I'm not **worried**, I'm ready:
-  + I can **handle** disaster (own **might**)
-  + I tried my **best**
-    + Good **enough**? 
+  + can **handle** it (own **might**)
+  + tried my **best**
     + (own **righteousness**)
 
 ---
