@@ -248,7 +248,7 @@ Rend your **heart** and not your **garments**
 + can't force a **change of heart**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/wm-Dore-Livestock_Disease.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Dore-Livestock_Disease.jpg" -->
 ## Revelation 9:20 <span class="ref">(NIV)</span>
 The rest of **mankind** <br/>
 who were not killed by these **plagues**
@@ -270,7 +270,7 @@ still did **not repent** of the work of their hands
 + (1) rend your **heart**; next:
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 <span class="ref">(2:15-16)</span>
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
@@ -288,10 +288,10 @@ declare a holy **fast**, call a sacred **assembly**.
 + *infant*: **involve**, not exclude
 + *bride*/groom: pre-empt
 + *priests*: weep at the **altar**
-+ &rArr; rally to do what? 
++ &rArr; rally to do what?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
 <span class="ref">(2:13)</span>
 **Return** to the LORD your God, <br/>
 for he is **gracious** and **compassionate**,
@@ -486,7 +486,7 @@ whom the Lord **calls**.
   + I can handle it, **prepared**
 + not rely own **righteousness**:
   + tried my **best**:
-  + surely **good** enough? 
+  + surely **good** enough?
 + but call on **name of the LORD**:
   + Rely fully on **grace**
 + 3:15-16 Lord **roars** once more:
