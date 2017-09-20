@@ -31,7 +31,6 @@ body { background: #222; }
 }
 
 /* Shading background images */
-/* background blend needs PhantomJS >= 2.1.1 */
 section[data-background-image] {
   background-color: rgba(0,0,0,0.6);
   text-shadow: 0 0 0.4em black, 0 0 0.4em black, 0 0 0.4em black, 0 0 0.4em black;
@@ -89,16 +88,12 @@ section.empty[data-background-image] {
   font-size: 0.5em;
 }
 
-/* References/links, e.g., Bible verses */
-.reveal .ref { font-size: 0.75em; }
-
 /* Text highlight colors */
 .reveal strong { color: yellow; }
 .reveal em { color: #17ff2e; }
 .reveal .hl1 { color: #17ff2e; }
 .reveal .hl2 { color: #19b1ff; }
 .reveal .hl3 { color: #ff2c2d; }
-.reveal .ref { color: #19b1ff; }
 
 /* Colors for reverse-color slides */
 .reveal .has-light-background strong { color: #e20606; }
@@ -258,7 +253,6 @@ section.empty[data-background-image] {
 
 .reveal a img { transition: all .15s linear; }
 .reveal a:hover img {
-  border: 2px solid #42affa;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
 }
 
