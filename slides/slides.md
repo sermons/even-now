@@ -1,5 +1,5 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
-# Even Now, <br/> Return to Me
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+# Even Now, <br> Return to Me
 ## Joel 2:11-13
 
 >>>
@@ -9,9 +9,8 @@
   + living in the **latter days**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
-# **Disaster** <br/> is upon us --
-# **what** do we do?
+<!-- .slide: data-background="white" -->
+# **Disaster** <br> is upon us -- <br> **what** do we do?
 
 >>>
 + times of **crisis**:
@@ -22,16 +21,12 @@
   + **warn** so we can **repent**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Jonah_Preaches_to_the_Ninevites.jpg" -->
-<span class="ref">(Jonah 3:4)</span>
+<!-- .slide: <%= bg("wm-Jonah_Preaches_to_the_Ninevites.jpg") %> -->
 **Forty** more days and <br/>
 **Nineveh** will be overthrown
 
-<div class="caption">
-(img: Gustave Doré,
-["Jonah Preaches to the Ninevites"](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg),
-1866 .)
-</div>
+[Jonah 3:4 (NIV)](# "ref")
+[Gustave Doré, "Jonah Preaches to the Ninevites", 1866](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg "caption")
 
 >>>
 + Jnh: God's grace, our mission
@@ -42,27 +37,27 @@
   + **still time** to repent
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 ## Joel: Even Now, Return
-1. **Ruin**: The *Day of the LORD* <span class="ref">(1:1-2:11)</span>
-2. **Return**: The *Call* of God <span class="ref">(2:12-17)</span>
-3. **Renewal**: The *Promise* of God <span class="ref">(2:18-32)</span>
+1. **Ruin**: The *Day* of the LORD [(1:1-2:11)](# "ref")
+2. **Return**: The *Call* of God [(2:12-17)](# "ref")
+3. **Renewal**: The *Promise* of God [(2:18-32)](# "ref")
 
 >>>
 + **ruin** in 2 parts: ch1 + ch2a
 
 ---
 ## 1. The Day of the LORD
-+ **Natural** disasters: *famine*, drought <span class="ref">(ch1)</span>
-  + Wail, you: *drunkards* <span class="ref">(1:5-10)</span>, <br/>
-    *farmers* <span class="ref">(1:11-12)</span>,
-    *priests* <span class="ref">(1:13-14)</span>
-  + Mourners: the *land* <span class="ref">(1:10)</span>, <br/>
-    *animals* <span class="ref">(1:18)</span>,
-    *people* <span class="ref">(1:12)</span>
-+ **Human** disasters: *armies* of God <span class="ref">(2:1-11)</span>
-  + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
-  + The *LORD* thunders <span class="ref">(2:11)</span>
++ **Natural** disasters: *famine*, drought [(ch1)](# "ref")
+  + Wail, you: *drunkards* [(1:5-10)](# "ref"), <br/>
+    *farmers* [(1:11-12)](# "ref"),
+    *priests* [(1:13-14)](# "ref")
+  + Mourners: the *land* [(1:10)](# "ref"), <br/>
+    *animals* [(1:18)](# "ref"),
+    *people* [(1:12)](# "ref")
++ **Human** disasters: *armies* of God [(2:1-11)](# "ref")
+  + *Sun*/moon/stars darkened [(2:10)](# "ref")
+  + The *LORD* thunders [(2:11)](# "ref")
 
 >>>
 + **Natural** and **human**
@@ -72,16 +67,12 @@
   + Followed by **drought**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Wild_Center-5574220011-locust_swarm.jpg" -->
-<span class="ref">(1:4)<sup>NIV</sup></span>
+<!-- .slide: <%= bg("Wild_Center-5574220011-locust_swarm.jpg") %> -->
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
 
-<div class="caption">
-(img &copy; 2009
-[Wild Center](https://www.flickr.com/photos/thewildcenter/5574220011),
-CC BY-NC 2.0)
-</div>
+[Joel 1:4 (NIV)](# "ref")
+[&copy; 2009 Wild Center, CC BY-NC 2.0](https://www.flickr.com/photos/thewildcenter/5574220011 "caption")
 
 >>>
 + 4 **stages** of locust growth
@@ -92,10 +83,11 @@ CC BY-NC 2.0)
 + 1875 Rocky/W-US: 300k-km2 (BC), 1.5km up, ~3T: Albert
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-YuVzPOBuuf0-grain_broken.jpg" -->
-<span class="ref">(1:10)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
 The **land** mourns, <br/>
 for the **grain** is ruined
+
+[Joel 1:10 (NASB)](# "ref")
 
 >>>
 + 3 categories of **mourners**:
@@ -104,28 +96,24 @@ for the **grain** is ruined
   + **grain** + new **wine** + **oil**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Riverina_Sheep_during_drought.jpg" -->
-<span class="ref">(1:18)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("wm-Riverina_Sheep_during_drought.jpg") %> -->
 How the **beasts** groan!
 
 The **herds** of cattle wander aimlessly <br/>
 Because there is no **pasture** for them
 
-<div class="caption">
-(img &copy;
-[@VirtualSteve](https://commons.wikimedia.org/wiki/File%3ARiverina_Sheep_%28during_drought%29.jpg),
-GFDL / CC BY-SA 3.0)
-</div>
+[Joel 1:18 (NASB)](# "ref")
+[&copy; @VirtualSteve, GFDL / CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File%3ARiverina_Sheep_%28during_drought%29.jpg "caption")
 
 >>>
 + natural **disasters**
   + **broken** creation bc **sin**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
-<span class="ref">(1:12)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 **Rejoicing** dries up from the **sons of men**
 
+[Joel 1:12 (NASB)](# "ref")
 >>>
 + locust + drought &rArr; **famine**
 + &rArr; **economy** in freefall
@@ -133,26 +121,27 @@ GFDL / CC BY-SA 3.0)
 
 ---
 ## 1. The Day of the LORD
-+ Natural disasters: famine, drought <span class="ref">(ch1)</span>
-  + Mourners: the land <span class="ref">(1:10)</span>, <br/>
-    animals <span class="ref">(1:18)</span>,
-    people <span class="ref">(1:12)</span>
-+ **Human disasters: armies of God** <span class="ref">(2:1-11)</span>
-  + *Sun*/moon/stars darkened <span class="ref">(2:10)</span>
-  + The *LORD* thunders <span class="ref">(2:11)</span>
++ Natural disasters: famine, drought [(ch1)](# "ref")
+  + Mourners: the land [(1:10)](# "ref"), <br/>
+    animals [(1:18)](# "ref"),
+    people [(1:12)](# "ref")
++ **Human disasters: armies of God** [(2:1-11)](# "ref")
+  + *Sun*/moon/stars darkened [(2:10)](# "ref")
+  + The *LORD* thunders [(2:11)](# "ref")
 
 >>>
 + next: **violence**, war, instability
 + **both** are consequences of sin
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
-<span class="ref">(2:1)</span>
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Blow the **trumpet** in Zion; <br/>
 sound the **alarm** on my holy hill.
 
 Let all who live in the land **tremble**, <br/>
 for the **day of the LORD** is coming.
+
+[Joel 2:1 (NASB)](# "ref")
 
 >>>
 + *day of the Lord*: **judgment**
@@ -162,13 +151,14 @@ for the **day of the LORD** is coming.
 + God **approaches** w/army
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
-<span class="ref">(2:10)</span>
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Before them the **earth** shakes, <br/>
 the **heavens** tremble,
 
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
+
+[Joel 2:10 (NASB)](# "ref")
 
 >>>
 + JJ: **heaven** play w/dinosaurs
@@ -177,20 +167,21 @@ and the **stars** no longer shine.
   + before its **Creator**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-in9-n0JwgZ0-lightning.jpg" -->
-<span class="ref">(2:11)</span>
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 The LORD **thunders** <br/>
 at the head of his army ...
 
 The **day of the LORD** is great; it is dreadful. <br/>
 Who can **endure** it?
 
+[Joel 2:11 (NASB)](# "ref")
+
 >>>
 + foolish to think I can **handle** it
 + I have my: money, edu, smarts, ethics/morals
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I **anticipate** the <br/> day of the LORD <br/> or **ignore** it?
 
 >>>
@@ -202,11 +193,11 @@ Who can **endure** it?
   + &rArr; I **like** my life of sin
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
-2. **Return: The Call of God** <span class="ref">(2:12-17)</span>
-3. Renewal: The Promise of God <span class="ref">(2:18-32)</span>
+1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
+2. **Return: The Call of God** [(2:12-17)](# "ref")
+3. Renewal: The Promise of God [(2:18-32)](# "ref")
 
 >>>
 + v11 Lord **thunders** from army:
@@ -214,17 +205,18 @@ Who can **endure** it?
 
 ---
 ## 2. The Call of God
-+ **Rend** Your Heart <span class="ref">(2:13)</span>
-+ **Rally** the Survivors <span class="ref">(2:15-17)</span>
-+ **Return** to the LORD our God <span class="ref">(2:12)</span>
++ **Rend** Your Heart [(2:13)](# "ref")
++ **Rally** the Survivors [(2:15-17)](# "ref")
++ **Return** to the LORD our God [(2:12)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
-<span class="ref">(2:12)</span>
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 “**Even now**,” declares the LORD,
 
 “return to me with **all your heart**, <br/>
 with fasting and **weeping** and mourning."
+
+[Joel 2:12 (NASB)](# "ref")
 
 >>>
 + **still** time, not too late yet
@@ -233,13 +225,12 @@ with fasting and **weeping** and mourning."
 + rend the **heart**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bethanypetrik-crying_child.jpg" -->
-<span class="ref">(2:13)</span>
+<!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 Rend your **heart** and not your **garments**
 
-<div class="caption">
-(img &copy; 2012 [Bethany Petrik](https://www.flickr.com/photos/bethanypetrik/7978577868/), CC BY-NC-ND 2.0)
-</div>
+[Joel 2:13 (NASB)](# "ref")
+
+[&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
 + JJ hit mom: pray, **sorry**, done, go play?
@@ -248,18 +239,14 @@ Rend your **heart** and not your **garments**
 + can't force a **change of heart**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Dore-Livestock_Disease.jpg" -->
-## Revelation 9:20 <span class="ref">(NIV)</span>
+<!-- .slide: <%= bg("wm-Dore-Livestock_Disease.jpg") %> -->
 The rest of **mankind** <br/>
 who were not killed by these **plagues**
 
 still did **not repent** of the work of their hands
 
-<div class="caption">
-(img: Gustave Doré,
-["The Fifth Plague: Livestock"](https://commons.wikimedia.org/wiki/File%3A033.The_Fifth_Plague._Livestock_Disease.jpg),
-1866 .)
-</div>
+[Revelation 9:20 (NIV)](# "ref")
+[Gustave Doré, "The Fifth Plague: Livestock", 1866](https://commons.wikimedia.org/wiki/File%3A033.The_Fifth_Plague._Livestock_Disease.jpg "caption")
 
 >>>
 + **crisis** of plagues
@@ -270,16 +257,14 @@ still did **not repent** of the work of their hands
 + (1) rend your **heart**; next:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
-<span class="ref">(2:15-16)</span>
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 Blow the **trumpet** in Zion, <br/>
 declare a holy **fast**, call a sacred **assembly**.
 
 **Gather** the people, **consecrate** the assembly
 
-<div class="caption">
-(img: &copy; 2010 [@bigbirdz](https://www.flickr.com/photos/bigbirdz/5024081279), CC BY 2.0)
-</div>
+[Joel 2:15-16 (NASB)](# "ref")
+[&copy; 2010 @bigbirdz, CC BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
 
 >>>
 + (2) **rally** the faithful:
@@ -291,13 +276,14 @@ declare a holy **fast**, call a sacred **assembly**.
 + &rArr; rally to do what?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-y4v96Sy2ne4-sunset_hills.jpg" -->
-<span class="ref">(2:13)</span>
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 **Return** to the LORD your God, <br/>
 for he is **gracious** and **compassionate**,
 
 slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
+
+[Joel 2:13 (NASB)](# "ref")
 
 >>>
 + **return** to God, because of
@@ -310,7 +296,7 @@ and he **relents** from sending calamity.
   + while **clinging** to his neck
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Will we <br/> **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
 
 >>>
@@ -321,11 +307,11 @@ and he **relents** from sending calamity.
  + the **comm.** of the faithful
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD <span class="ref">(1:1-2:11)</span>
-2. Return: The Call of God <span class="ref">(2:12-17)</span>
-3. **Renewal: The Promise of God** <span class="ref">(2:18-32)</span>
+1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
+2. Return: The Call of God [(2:12-17)](# "ref")
+3. **Renewal: The Promise of God** [(2:18-32)](# "ref")
 
 >>>
 + when we **return** to God,
@@ -336,11 +322,11 @@ and he **relents** from sending calamity.
 
 ---
 ## 3. The Promise of God
-+ Renewed **Nature** <span class="ref">(2:18-27)</span>
++ Renewed **Nature** [(2:18-27)](# "ref")
   + Comfort: *land*, *animals*, *people*
-+ Redeemed **Spirit** <span class="ref">(2:28-32)</span>
++ Redeemed **Spirit** [(2:28-32)](# "ref")
   + To all who *call* on His name
-+ Restored **Nation** <span class="ref">(ch3)</span>
++ Restored **Nation** [(ch3)](# "ref")
 
 >>>
 + sin corrupted **creation**
@@ -352,17 +338,13 @@ and he **relents** from sending calamity.
 + when we  humbly **repent**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg" -->
-<span class="ref">(2:18)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
 Then the LORD <br/>
 will be **zealous** for His land <br/>
 And will have **pity** on His people.
 
-<div class="caption">
-(img: John Bridges,
-["Christ Healing the Mother of Simon Peter’s Wife"](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg),
-1839 . Birmingham Museum of Art)
-</div>
+[Joel 2:18 (NASB)](# "ref")
+[John Bridges, "Christ Healing the Mother of Simon Peter’s Wife", 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
 + God acts with both:
@@ -372,23 +354,25 @@ And will have **pity** on His people.
   + land, animals, people
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-kmF_Aq8gkp0-barley_wheat_grain.jpg" -->
-<span class="ref">(2:21)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("unsplash-kmF_Aq8gkp0-barley_wheat_grain.jpg") %> -->
 Do not fear, O **land**,
 
 rejoice and be glad, <br/>
 for the LORD has done **great** things.
 
+[Joel 2:21 (NASB)](# "ref")
+
 >>>
 + grain/wine/oil: (1:10) (2:19,24) (3:13)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
-<span class="ref">(2:22)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
 Do not fear, **beasts** of the field,
 
 For the **pastures** of the wilderness <br/>
 have turned **green**
+
+[Joel 2:22 (NASB)](# "ref")
 
 >>>
 + the **animals** also:
@@ -396,13 +380,14 @@ have turned **green**
 + and bc we **trust** in Him,
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-HNx4QLRgy2k-rain_plant.jpg" -->
-<span class="ref">(2:23)<sup>NASB</sup></span>
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 So rejoice, O **sons of Zion**, <br/>
 And be glad in the **LORD your God**;
 
 For He has given you <br/>
 the early **rain** for your **vindication**.
+
+[Joel 2:23 (NASB)](# "ref")
 
 >>>
 + **we** also rejoice:
@@ -413,10 +398,11 @@ the early **rain** for your **vindication**.
 + God remem **locusts** too:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M4KpA7NC-l0-grapes_bowl.jpg" -->
-<span class="ref">(2:23)</span>
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
 I will **repay** you for <br/>
 the years the **locusts** have eaten
+
+[Joel 2:23 (NASB)](# "ref")
 
 >>>
 + *repay*: shalom, make even
@@ -425,12 +411,13 @@ the years the **locusts** have eaten
   + Not **suffer** more &rArr; bless more
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-H3giJcTw__w-iceland_sunbeam.jpg" -->
-<span class="ref">(2:27)</span>
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 Then you will know that I am **in Israel**, <br/>
 that I am the LORD **your God**, <br/>
 and that there is **no other**; <br/>
 never again will my people be **shamed**.
+
+[Joel 2:27 (NASB)](# "ref")
 
 >>>
 So we will know:
@@ -440,16 +427,12 @@ So we will know:
 4. God is our **vindication**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Restout-Pentecost.jpg" -->
-<span class="ref">(2:28)</span>
+<!-- .slide: <%= bg("Restout-Pentecost.jpg") %> -->
 And afterward, I will pour out <br/>
 **my Spirit** on all people
 
-<div class="caption">
-(img: Jean Restout,
-["Pentecôte"](http://www.wga.hu/html/r/restout/jean2/pentecos.html),
-1732 . Musée du Louvre, Paris)
-</div>
+[Joel 2:28 (NASB)](# "ref")
+[Jean Restout, "Pentecôte", 1732](http://www.wga.hu/html/r/restout/jean2/pentecos.html "caption")
 
 >>>
 + **redeem** broken rl w/God
@@ -458,13 +441,14 @@ And afterward, I will pour out <br/>
   + both **awesome** and **awful**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Dc3YQuyr2pU-moon.jpg" -->
-<span class="ref">(2:31)</span>
+<!-- .slide: <%= bg("unsplash-Dc3YQuyr2pU-moon.jpg") %> -->
 The sun will be turned to **darkness** <br/>
 and the moon to **blood**
 
 before the coming of the great <br/>
 and dreadful **day of the LORD**
+
+[Joel 2:31 (NASB)](# "ref")
 
 >>>
 + echo 2:10
@@ -472,13 +456,14 @@ and dreadful **day of the LORD**
   + what does He say?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
-<span class="ref">(2:32)</span>
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 And everyone who calls on <br/>
 the **name of the LORD** will be **saved**
 
 ... even among the **survivors** <br/>
 whom the Lord **calls**.
+
+[Joel 2:32 (NASB)](# "ref")
 
 >>>
 + **calls** from all nations (Ro10)
@@ -494,7 +479,7 @@ whom the Lord **calls**.
   + to obedient: &rarr; **refuge**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Am I **prepared** for <br/> the **day** of the **LORD**?
 
 >>>
@@ -508,10 +493,11 @@ whom the Lord **calls**.
     + (own **righteousness**)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
-<span class="ref">(2:32)</span>
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 And everyone who calls on <br/>
 the **name of the LORD** will be **saved**
+
+[Joel 2:32 (NASB)](# "ref")
 
 >>>
 + **God** calls to us:
@@ -520,7 +506,7 @@ the **name of the LORD** will be **saved**
   + **return** to Lord our God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="empty" -->
 
 >>>
 + locust (1:4) (2:25)
