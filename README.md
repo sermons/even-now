@@ -1,7 +1,7 @@
 # Even Now, Return to Me
 ## Joel 2:11-13
 
-[![Travis-CI build status](https://travis-ci.org/sermons/even-now.svg)](https://travis-ci.org/sermons/even-now)
+[![Travis-CI build status](https://api.travis-ci.org/sermons/even-now.svg)](https://travis-ci.org/github/sermons/even-now)
 [![Node dependencies](https://david-dm.org/sermons/even-now.svg)](https://david-dm.org/sermons/even-now)
 [![Node dev status](https://david-dm.org/sermons/even-now/dev-status.svg)](https://david-dm.org/sermons/even-now?type=dev)
 
