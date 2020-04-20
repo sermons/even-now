@@ -5,10 +5,10 @@
   "keywords": [
     "slides"
   ],
-  "version": "1.8.0",
+  "version": "2.0.1",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "even-now.seanho.com",
+    "pretty_url": "",
     "cname": "even-now.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
@@ -27,7 +27,7 @@
       }
     ],
     "slides": [
-      "slides/slides.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
@@ -78,7 +78,7 @@
     "reveal.js": "^3.8.0",
     "highlight.js": "^9.18.1",
     "socket.io": "^2.3.0",
-    "marked": "^0.8.0"
+    "marked": "^0.8.2"
   },
   "devDependencies": {
     "grunt": "^1.1.0",
