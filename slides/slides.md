@@ -8,6 +8,9 @@
 + in **fearful** times, how **respond**?
   + living in the **latter days**
 
+______
+**[SKIP SCRIPTURE READING]**
+
 ---
 <!-- .slide: data-background="white" -->
 # **Disaster** <br> is upon us -- <br> **what** do we do?
