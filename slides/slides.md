@@ -91,6 +91,7 @@ The **land** mourns, <br/>
 for the **grain** is ruined
 
 [Joel 1:10 (NASB)](# "ref")
+[Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
 
 >>>
 + 3 categories of **mourners**:
@@ -117,6 +118,8 @@ Because there is no **pasture** for them
 **Rejoicing** dries up from the **sons of men**
 
 [Joel 1:12 (NASB)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
+
 >>>
 + locust + drought &rArr; **famine**
 + &rArr; **economy** in freefall
@@ -145,6 +148,7 @@ Let all who live in the land **tremble**, <br/>
 for the **day of the LORD** is coming.
 
 [Joel 2:1 (NASB)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + *day of the Lord*: **judgment**
@@ -162,6 +166,7 @@ The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
 [Joel 2:10 (NASB)](# "ref")
+[Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
 + JJ: **heaven** play w/dinosaurs
@@ -178,6 +183,7 @@ The **day of the LORD** is great; it is dreadful. <br/>
 Who can **endure** it?
 
 [Joel 2:11 (NASB)](# "ref")
+[Breno Machado](https://unsplash.com/photos/in9-n0JwgZ0 "caption")
 
 >>>
 + foolish to think I can **handle** it
@@ -220,6 +226,7 @@ Who can **endure** it?
 with fasting and **weeping** and mourning."
 
 [Joel 2:12 (NASB)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
 + **still** time, not too late yet
@@ -287,6 +294,7 @@ slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
 
 [Joel 2:13 (NASB)](# "ref")
+[Shontz Photography](https://unsplash.com/photos/y4v96Sy2ne4 "caption")
 
 >>>
 + **return** to God, because of
@@ -364,6 +372,7 @@ rejoice and be glad, <br/>
 for the LORD has done **great** things.
 
 [Joel 2:21 (NASB)](# "ref")
+[Zugr](https://unsplash.com/photos/kmF_Aq8gkp0 "caption")
 
 >>>
 + grain/wine/oil: (1:10) (2:19,24) (3:13)
@@ -376,6 +385,7 @@ For the **pastures** of the wilderness <br/>
 have turned **green**
 
 [Joel 2:22 (NASB)](# "ref")
+[Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
 + the **animals** also:
@@ -391,6 +401,7 @@ For He has given you <br/>
 the early **rain** for your **vindication**.
 
 [Joel 2:23 (NASB)](# "ref")
+[Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
 + **we** also rejoice:
@@ -406,6 +417,7 @@ I will **repay** you for <br/>
 the years the **locusts** have eaten
 
 [Joel 2:23 (NASB)](# "ref")
+[Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 
 >>>
 + *repay*: shalom, make even
@@ -421,6 +433,7 @@ and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
 [Joel 2:27 (NASB)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 So we will know:
@@ -452,6 +465,7 @@ before the coming of the great <br/>
 and dreadful **day of the LORD**
 
 [Joel 2:31 (NASB)](# "ref")
+[Nousnou Iwasaki](https://unsplash.com/photos/Dc3YQuyr2pU "caption")
 
 >>>
 + echo 2:10
@@ -467,6 +481,7 @@ the **name of the LORD** will be **saved**
 whom the Lord **calls**.
 
 [Joel 2:32 (NASB)](# "ref")
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 + **calls** from all nations (Ro10)
@@ -523,11 +538,11 @@ the **name of the LORD** will be **saved**
   + grain/drink offering (1:9,13) (2:14)
   + fast/assembly (1:14) (2:15-17)
 + beasts groan (1:18) (2:22)
-+ .
+______
 + reproach, where is God (2:17) (2:27) (3:17)
 + Spirit (2:28-29)
 + call on Lord, escape (2:32)
-+ .
+______
 + army (2:1-10) (2:20) (3:9-11)
   + wine press (2:24) (3:13): judgment
   + sun/moon dark (2:10 army) (2:31 day) (3:15 decision)
