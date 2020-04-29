@@ -2,6 +2,18 @@
 ## Not rendered in presentation
 
 ---
+<!-- .slide: <%= bg("wm-Jonah_Preaches_to_the_Ninevites.jpg") %> -->
+**Forty** more days and <br/>
+**Nineveh** will be overthrown
+
+[Jonah 3:4 (NIV)](# "ref")
+[Gustave Doré, "Jonah Preaches to the Ninevites", 1866](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg "caption")
+
+>>>
++ Jnh: God's grace, our mission
+  + **grace**: opp. to repent
+
+---
 ## Habakkuk 3:17 <span class="ref">(NIV) (p.1/2)</span>
 Though the **fig tree** does not bud <br/>
 and there are no **grapes** on the vines,

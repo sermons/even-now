@@ -7,7 +7,8 @@
   + how **mighty** is our God!
 + in **fearful** times, how **respond**?
   + living in the **latter days**
-
++ turn attention off of the **pain**
+  + and toward the **Maker**
 ______
 **[SKIP SCRIPTURE READING]**
 
@@ -22,18 +23,7 @@ ______
 + not just **personal** disaster:
   + **world** history to a close
   + **warn** so we can **repent**
-
----
-<!-- .slide: <%= bg("wm-Jonah_Preaches_to_the_Ninevites.jpg") %> -->
-**Forty** more days and <br/>
-**Nineveh** will be overthrown
-
-[Jonah 3:4 (NIV)](# "ref")
-[Gustave Doré, "Jonah Preaches to the Ninevites", 1866](https://commons.wikimedia.org/wiki/File%3A138.Jonah_Preaches_to_the_Ninevites.jpg "caption")
-
->>>
-+ Jnh: God's grace, our mission
-  + **grace**: opp. to repent
+______
 + Joel: perh. pre-exile, early 6c
   + Isr. already **rebellious**
   + **warn** of coming judgment
