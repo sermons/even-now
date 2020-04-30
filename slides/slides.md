@@ -7,8 +7,6 @@
   + how **mighty** is our God!
 + in **fearful** times, how **respond**?
   + living in the **latter days**
-+ turn attention off of the **pain**
-  + and toward the **Maker**
 ______
 **[SKIP SCRIPTURE READING]**
 
@@ -73,7 +71,9 @@ the **great locusts** have eaten
   + normally **solitary**, but
   + **swarm** when crowded
   + est 50M/km2
-+ 1875 Rocky/W-US: 300k-km2 (BC), 1.5km up, ~3T: Albert
++ 1875 **swarm** of Rocky-Mtn locust:
+  + est cover 0.5M km2, depth 1.5km
+  + 3-12T locust, named **Albert's** swarm
 
 ---
 <!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
@@ -239,6 +239,26 @@ Rend your **heart** and not your **garments**
 + can't force a **change of heart**
 
 ---
+For you will not delight in **sacrifice**, <br>
+or I would give it;<br>
+you will not be pleased with a **burnt offering**.
+
+[17](# "ref")
+The sacrifices of God are a **broken spirit**;<br>
+a **broken** and **contrite** heart, <br>
+O God, you will not despise.
+
+[Psalm 51:16-17 (ESV)](# "ref")
+
+>>>
++ not just sorry bc **punished**
+  + disaster / disease / famine
++ but realize what we've done **wrong**
+  + desire to be **boss** of own life
++ ack **extent** + severity of our
+  + **rebellion** against God
+
+---
 <!-- .slide: <%= bg("wm-Dore-Livestock_Disease.jpg") %> -->
 The rest of **mankind** <br/>
 who were not killed by these **plagues**
@@ -316,7 +336,7 @@ and he **relents** from sending calamity.
 
 >>>
 + when we **return** to God,
-+ there is a **promise**:
+  + there is a **promise**:
 + the same awe-inspiring **power**
   + that **humbled** us
   + now **rescues** us
@@ -336,7 +356,7 @@ and he **relents** from sending calamity.
   + God's Spirit can **redeem** it
 + sin made us the **laughingstock** of the nations
   + God's power can **restore** + vindicate us
-+ when we  humbly **repent**:
++ when we humbly **repent**:
 
 ---
 <!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
@@ -379,7 +399,7 @@ have turned **green**
 
 >>>
 + the **animals** also:
-+ from **mourning** to **joy**
+  + from **mourning** to **joy**
 + and bc we **trust** in Him,
 
 ---
