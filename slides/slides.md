@@ -644,3 +644,4 @@ the **name of the LORD** will be **saved**
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="empty" -->
+
