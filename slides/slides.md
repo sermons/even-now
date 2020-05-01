@@ -35,7 +35,9 @@ ______
 3. **Renewal**: The *Promise* of God [(2:18-32)](# "ref")
 
 >>>
-+ **ruin** in 2 parts: ch1 + ch2a
++ **ruin** in 2 parts:
++ **natural** disasters in ch1
++ **human** disaster in ch2a
 
 ---
 ## 1. The Day of the LORD
@@ -189,7 +191,9 @@ Who can **endure** it?
 + "**too late**, irredeemable"
   + already **messed** up,
   + just go **all the way**
-  + &rArr; I **like** my life of sin
+  + &rArr; I **like** my life the way it is
+______
+**[ PAUSE + CUT ]**
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
@@ -229,7 +233,6 @@ with fasting and **weeping** and mourning."
 Rend your **heart** and not your **garments**
 
 [Joel 2:13 (NASB)](# "ref")
-
 [&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
@@ -313,8 +316,6 @@ and he **relents** from sending calamity.
   + Mt Sinai (Ex 34:5-6)
 + **justice** + **mercy**
   + kindness + severity
-+ girl **crying**, upset at dad
-  + while **clinging** to his neck
 
 ---
 <!-- .slide: data-background="white" -->
