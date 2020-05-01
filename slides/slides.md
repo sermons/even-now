@@ -104,6 +104,14 @@ the **great locusts** have eaten
   + up to **50M** / km2
 + not 4 **species** of locust, but
   + 4 **stages** of growth
+
+---
+![Distribution of Melanoplus spretus, 1877](img/Melanoplus_distribution.jpg)
+<!-- .element: style="max-width: 90%" -->
+
+[Distribution of Melanoplus spretus, 1877. C.V. Riley](https://commons.wikimedia.org/wiki/File:Melanoplus_distribution.jpg "caption")
+
+>>>
 + 1875 **swarm** of Rocky-Mtn locust:
   + est cover 0.5M km2, depth 1.5km
   + 3-12T locust, named **Albert's** swarm
