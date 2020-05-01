@@ -106,8 +106,8 @@ the **great locusts** have eaten
   + 4 **stages** of growth
 
 ---
-![Distribution of Melanoplus spretus, 1877](img/Melanoplus_distribution.jpg)
-<!-- .element: class="stretch" -->
+<img src="img/Melanoplus_distribution.jpg" alt="Distribution of Melanoplus spretus, 1877" class="stretch">
+
 [Distribution of Melanoplus spretus, 1877. C.V. Riley](https://commons.wikimedia.org/wiki/File:Melanoplus_distribution.jpg "caption")
 
 >>>
