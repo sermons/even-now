@@ -334,6 +334,7 @@ Rend your **heart** and not your **garments**
 + can't force a **change of heart**
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 For you will not delight in **sacrifice**, <br>
 or I would give it;<br>
 you will not be pleased with a **burnt offering**.
@@ -344,6 +345,7 @@ a **broken** and **contrite** heart, <br>
 O God, you will not despise.
 
 [Psalm 51:16-17 (ESV)](# "ref")
+[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
 + not just sorry bc **punished**
