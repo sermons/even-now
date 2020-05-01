@@ -107,7 +107,7 @@ the **great locusts** have eaten
 
 ---
 ![Distribution of Melanoplus spretus, 1877](img/Melanoplus_distribution.jpg)
-<!-- .element: style="max-width: 80%" -->
+<!-- .element: class="stretch" -->
 [Distribution of Melanoplus spretus, 1877. C.V. Riley](https://commons.wikimedia.org/wiki/File:Melanoplus_distribution.jpg "caption")
 
 >>>
