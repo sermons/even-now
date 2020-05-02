@@ -254,7 +254,7 @@ Who can **endure** it?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **anticipate** the <br/> day of the LORD <br/> or **ignore** it?
+# Do I **anticipate** the <br/> day of the LORD, <br/> or **ignore** it?
 
 >>>
 + "too **busy** to think abt it"
@@ -623,7 +623,7 @@ whom the Lord **calls**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **prepared** for <br/> the **day** of the **LORD**?
+# Am I **prepared** <br/> for the **day** <br> of the **LORD**?
 
 >>>
 + I'm too **busy** surviving
