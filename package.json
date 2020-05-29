@@ -20,10 +20,16 @@
     },
     "history": [
       {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2020-05-03",
+        "duration": 37
+      },
+      {
         "venue": "Evangelical Chinese Bible Church",
         "city": "Burnaby",
         "date": "2016-10-16",
-        "duration": 37
+        "duration": 0
       }
     ],
     "slides": [
