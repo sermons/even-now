@@ -74,9 +74,9 @@ ______
   + *Famine*, drought [(ch1)](# "ref")
   + Affects *land*, animals, people
 + **Human** disasters 人類災難:
-  + *Armies* of God [(2:1-11)](# "ref")
-  + *Sun*/moon/stars darkened [(2:10)](# "ref")
-  + The *LORD* thunders [(2:11)](# "ref")
+  + Armies of God [(2:1-11)](# "ref")
+  + Sun/moon/stars darkened [(2:10)](# "ref")
+  + The LORD thunders [(2:11)](# "ref")
 
 >>>
 + **Natural** and **human**
@@ -293,7 +293,7 @@ Who can **endure** it?
 1. Ruin: The Day of the LORD <br>
   變成荒涼：主的日子 [(1:1-2:11)](# "ref")
 2. **Return: The Call of God** <br>
-  回轉歸神：神的呼召 [(2:12-17)](# "ref")
+  **回轉歸神：神的呼召** [(2:12-17)](# "ref")
 3. Renewal: The Promise of God <br>
   重新得力：神的應許 [(2:18-32)](# "ref")
 
@@ -413,7 +413,7 @@ ______
 + Rend Your Heart <br/>
   撕裂你的心腸 [(2:13)](# "ref")
 + **Rally the Survivors** <br/>
-  鼓勵剩下的人 [(2:15-17)](# "ref")
+  **鼓勵剩下的人** [(2:15-17)](# "ref")
 + Return to the LORD our God <br/>
   回轉歸向主我們的神 [(2:12)](# "ref")
 
@@ -450,7 +450,7 @@ declare a holy **fast**, call a sacred **assembly**. <br/>
 + Rally the Survivors <br/>
   鼓勵剩下的人 [(2:15-17)](# "ref")
 + **Return to the LORD our God** <br/>
-  回轉歸向主我們的神 [(2:12)](# "ref")
+  **回轉歸向主我們的神** [(2:12)](# "ref")
 
 >>>
 + **Turn back** to God
@@ -486,8 +486,7 @@ and he **relents** from sending calamity.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will we **rend** our hearts, <br/> **rally** together, and **return** to our God?
-# 我們會撕裂我們的心腸, <br/> 彼此互相鼓勵, 回轉歸向我們的 神嗎? 
+# Will we **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God? <br/> 我們會撕裂我們的心腸, <br/> 彼此互相鼓勵, <br/> 回轉歸向我們的神嗎? 
 
 <!-- .element: class="r-fit-text" -->
 
@@ -510,7 +509,7 @@ and he **relents** from sending calamity.
 2. Return: The Call of God <br>
   回轉歸神：神的呼召 [(2:12-17)](# "ref")
 3. **Renewal: The Promise of God** <br>
-  重新得力：神的應許 [(2:18-32)](# "ref")
+  **重新得力：神的應許** [(2:18-32)](# "ref")
 
 >>>
 + **Disaster** is coming, which 
@@ -715,8 +714,7 @@ even among the **survivors** whom the Lord **calls**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **prepared** for the <br/> **day** of the **LORD**?
-# 我對於主的日子準備好了嗎？
+# Am I **prepared** for the <br/> **day** of the **LORD**? <br/> 我對於主的日子準備好了嗎？
 
 <!-- .element: class="r-fit-text" -->
 
