@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
-# Even Now, <br> Return to Me
-## Joel 2:11-13
+# Even Now, Return to Me <br> 雖然如此, 應當回轉歸向我
+## Joel 約珥 2:11-13
 
 >>>
 + whether watching as a **household**
@@ -13,7 +13,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# **Disaster** <br> is upon us -- <br> **what** do we do?
+# **Disaster** is upon us -- <br> **what** do we do?
+# 災難臨頭, 我們該怎麼辦？
 
 >>>
 + present global **crisis** is a virus,
@@ -44,11 +45,14 @@ ______
 **[ OPENING PRAYER ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> id="outline" class="outline" -->
 ## Joel: Even Now, Return
-1. **Ruin**: The *Day* of the LORD [(1:1-2:11)](# "ref")
-2. **Return**: The *Call* of God [(2:12-17)](# "ref")
-3. **Renewal**: The *Promise* of God [(2:18-32)](# "ref")
+1. **Ruin**: The *Day* of the LORD <br>
+  變成荒涼：主的日子 [(1:1-2:11)](# "ref")
+2. **Return**: The *Call* of God <br>
+  回轉歸神：神的呼召 [(2:12-17)](# "ref")
+3. **Renewal**: The *Promise* of God <br>
+  重新得力：神的應許 [(2:18-32)](# "ref")
 
 >>>
 + **many** disasters rec. in Bible
@@ -63,15 +67,17 @@ ______
 + **ruin** in 2 parts:
 
 ---
-## 1. The Day of the LORD
-+ **Natural** disasters: *famine*, drought [(ch1)](# "ref")
+## 1. Day of the LORD 主的日子 
++ **Natural** disasters 天然災害:
+  + *Famine*, drought [(ch1)](# "ref")
+<!--
   + Wail, you: *drunkards* [(1:5-10)](# "ref"), <br/>
     *farmers* [(1:11-12)](# "ref"),
     *priests* [(1:13-14)](# "ref")
-  + Mourners: the *land* [(1:10)](# "ref"), <br/>
-    *animals* [(1:18)](# "ref"),
-    *people* [(1:12)](# "ref")
-+ **Human** disasters: *armies* of God [(2:1-11)](# "ref")
+-->
+  + Affects *land*, animals, people
++ **Human** disasters 人類災難:
+  + *Armies* of God [(2:1-11)](# "ref")
   + *Sun*/moon/stars darkened [(2:10)](# "ref")
   + The *LORD* thunders [(2:11)](# "ref")
 
@@ -94,7 +100,9 @@ ______
 What the **locust swarm** has left <br/>
 the **great locusts** have eaten
 
-[Joel 1:4 (NIV)](# "ref")
+蝗蟲剩下的， 蝻子來吃
+
+[Joel 約珥 1:4 (NIV/CUV)](# "ref")
 [&copy; 2009 Wild Center, CC BY-NC 2.0](https://www.flickr.com/photos/thewildcenter/5574220011 "caption")
 
 >>>
@@ -122,7 +130,9 @@ the **great locusts** have eaten
 The **land** mourns, <br/>
 for the **grain** is ruined
 
-[Joel 1:10 (NASB)](# "ref")
+地悲哀； 因為五穀毀壞
+
+[Joel 約珥 1:10 (NASB/CUV)](# "ref")
 [Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
 
 >>>
@@ -137,12 +147,13 @@ for the **grain** is ruined
 
 ---
 <!-- .slide: <%= bg("wm-Riverina_Sheep_during_drought.jpg") %> -->
-How the **beasts** groan!
-
+How the **beasts** groan!<br/>
 The **herds** of cattle wander aimlessly <br/>
 Because there is no **pasture** for them
 
-[Joel 1:18 (NASB)](# "ref")
+牲畜哀鳴； 牛群混亂， 因為無草
+
+[Joel 約珥 1:18 (NASB/CUV)](# "ref")
 [&copy; @VirtualSteve, GFDL / CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File%3ARiverina_Sheep_%28during_drought%29.jpg "caption")
 
 >>>
@@ -161,7 +172,9 @@ Because there is no **pasture** for them
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 **Rejoicing** dries up from the **sons of men**
 
-[Joel 1:12 (NASB)](# "ref")
+眾人的喜樂盡都消滅
+
+[Joel 約珥 1:12 (NASB/CUV)](# "ref")
 [Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
@@ -173,12 +186,11 @@ Because there is no **pasture** for them
 + esp. when exp. **pain** or loss
 
 ---
-## 1. The Day of the LORD
-+ Natural disasters: famine, drought [(ch1)](# "ref")
-  + Mourners: the land [(1:10)](# "ref"), <br/>
-    animals [(1:18)](# "ref"),
-    people [(1:12)](# "ref")
-+ **Human disasters: armies of God** [(2:1-11)](# "ref")
+## 1. Day of the LORD 主的日子 
++ Natural disasters 天然災害:
+  + Affects *land*, *animals*, *people*
++ **Human disasters 人類災難**:
+  + *Armies* of God [(2:1-11)](# "ref")
   + *Sun*/moon/stars darkened [(2:10)](# "ref")
   + The *LORD* thunders [(2:11)](# "ref")
 
@@ -191,13 +203,15 @@ Because there is no **pasture** for them
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-Blow the **trumpet** in Zion; <br/>
-sound the **alarm** on my holy hill.
+Blow a **trumpet** in Zion, <br/>
+And sound an **alarm** on My holy mountain! <br/>
+Let all the inhabitants of the land **tremble**, <br/>
+For the **day of the Lord** is coming
 
-Let all who live in the land **tremble**, <br/>
-for the **day of the LORD** is coming.
+你們要在錫安吹角， 在我聖山吹出大聲。<br/>
+國中的居民都要發顫； 因為耶和華的日子將到
 
-[Joel 2:1 (NASB)](# "ref")
+[Joel 約珥 2:1 (NASB/CUV)](# "ref")
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
@@ -211,12 +225,14 @@ for the **day of the LORD** is coming.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 Before them the **earth** shakes, <br/>
-the **heavens** tremble,
-
+the **heavens** tremble, <br/>
 The **sun** and **moon** are darkened, <br/>
 and the **stars** no longer shine.
 
-[Joel 2:10 (NASB)](# "ref")
+他們一來， 地震天動， <br/>
+日月昏暗， 星宿無光。
+
+[Joel 約珥 2:10 (NASB/CUV)](# "ref")
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
 >>>
@@ -233,13 +249,15 @@ and the **stars** no longer shine.
 
 ---
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
-The LORD **thunders** <br/>
-at the head of his army ...
-
+The LORD **thunders** at the head of his army ... <br/>
 The **day of the LORD** is great; it is dreadful. <br/>
 Who can **endure** it?
 
-[Joel 2:11 (NASB)](# "ref")
+耶和華在他軍旅前發聲 ...<br/>
+因為耶和華的日子大而可畏，<br/>
+誰能當得起呢？
+
+[Joel 約珥 2:11 (NASB/CUV)](# "ref")
 [Breno Machado](https://unsplash.com/photos/in9-n0JwgZ0 "caption")
 
 >>>
@@ -254,7 +272,8 @@ Who can **endure** it?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **anticipate** the <br/> day of the LORD, <br/> or **ignore** it?
+# Do I **anticipate** the <br/> day of the LORD, or **ignore** it?
+# 我是否預想準備 主的日子, <br/> 或是忽視它？
 
 >>>
 + "too **busy** to think abt it"
@@ -269,11 +288,9 @@ Who can **endure** it?
 + But **disaster** from the Lord
   + is **coming**, like it or not;
 + **How** shall we respond?
-______
-**[ PAUSE + CUT ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="outline" -->
 ## Joel: Even Now, Return
 1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
 2. **Return: The Call of God** [(2:12-17)](# "ref")
@@ -289,10 +306,13 @@ ______
 + 3 parts of God's **call**:
 
 ---
-## 2. The Call of God
-+ **Rend** Your Heart [(2:13)](# "ref")
-+ **Rally** the Survivors [(2:15-17)](# "ref")
-+ **Return** to the LORD our God [(2:12)](# "ref")
+## 2. Call of God 神的呼召 
++ **Rend** Your Heart <br/>
+  撕裂你的心腸 [(2:13)](# "ref")
++ **Rally** the Survivors <br/>
+  鼓勵剩下的人 [(2:15-17)](# "ref")
++ **Return** to the LORD our God <br/>
+  回轉歸向主我們的神 [(2:12)](# "ref")
 
 >>>
 + God does **not** yet say,
@@ -303,12 +323,15 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
-“**Even now**,” declares the LORD,
+"Yet **even now**," declares the LORD, <br/>
+"Return to me with **all your heart**, <br/>
+And with fasting and **weeping** and mourning."
 
-“return to me with **all your heart**, <br/>
-with fasting and **weeping** and mourning."
+耶和華說： <br/>
+雖然如此，你們應當禁食、<br/>
+哭泣、悲哀，一心歸向我。
 
-[Joel 2:12 (NASB)](# "ref")
+[Joel 約珥 2:12 (NASB/CUV)](# "ref")
 [Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
@@ -324,7 +347,9 @@ with fasting and **weeping** and mourning."
 <!-- .slide: <%= bg("bethanypetrik-crying_child.jpg") %> -->
 Rend your **heart** and not your **garments**
 
-[Joel 2:13 (NASB)](# "ref")
+你們要撕裂心腸， 不撕裂衣服
+
+[Joel 約珥 2:13 (NIV/CUV)](# "ref")
 [&copy; 2012 Bethany Petrik, CC BY-NC-ND 2.0](https://www.flickr.com/photos/bethanypetrik/7978577868/ "caption")
 
 >>>
@@ -342,17 +367,26 @@ Rend your **heart** and not your **garments**
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
-For you will not delight in **sacrifice**, <br>
-or I would give it;<br>
-you will not be pleased with a **burnt offering**.
+For you do not delight in **sacrifice**, <br>
+otherwise I would give it.<br>
+You do not take pleasure in **burnt offering**.
 
-[17](# "ref")
-The sacrifices of God are a **broken spirit**;<br>
-a **broken** and **contrite** heart, <br>
-O God, you will not despise.
+你本不喜愛祭物，若喜愛，我就獻上；<br>
+燔祭，你也不喜悅。
 
-[Psalm 51:16-17 (ESV)](# "ref")
+[Psalm 詩篇 51:16 (NASB/CUV) (p.1/2)](# "ref")
 [Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+The sacrifices of God are a **broken spirit**;<br>
+a **broken** and a **contrite** heart, <br>
+God, You will not despise.
+
+神所要的祭就是憂傷的靈；<br>
+神啊，憂傷痛悔的心，你必不輕看。
+
+[Psalm 詩篇 51:17 (NASB/CUV) (p.2/2)](# "ref")
 
 >>>
 + not just sorry bc **punished**
@@ -374,18 +408,32 @@ ______
 + (1) rend your **heart**; next:
 
 ---
-<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
-Blow the **trumpet** in Zion, <br/>
-declare a holy **fast**, call a sacred **assembly**.
-
-**Gather** the people, **consecrate** the assembly
-
-[Joel 2:15-16 (NASB)](# "ref")
-[&copy; 2010 @bigbirdz, CC BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
+## 2. Call of God 神的呼召 
++ **Rend** Your Heart <br/>
+  撕裂你的心腸 [(2:13)](# "ref")
++ **Rally** the Survivors <br/>
+  鼓勵剩下的人 [(2:15-17)](# "ref")
++ **Return** to the LORD our God <br/>
+  回轉歸向主我們的神 [(2:12)](# "ref")
 
 >>>
 + (2) **rally** the faithful:
   + **corporate** repentance
+
+---
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
+Blow the **trumpet** in Zion, <br/>
+declare a holy **fast**, call a sacred **assembly**. <br/>
+**Gather** the people, **consecrate** the assembly
+
+你們要在錫安吹角， <br/>
+分定禁食的日子， 宣告嚴肅會。 <br/>
+聚集眾民， 使會眾自潔
+
+[Joel 約珥 2:15-16 (NASB/CUV)](# "ref")
+[&copy; 2010 @bigbirdz, CC BY 2.0](https://www.flickr.com/photos/bigbirdz/5024081279 "caption")
+
+>>>
 + *elders*: civic **leaders**
 + *infant*: **involve**, not exclude
 + *bride*/groom: out of chamber:
@@ -395,14 +443,30 @@ declare a holy **fast**, call a sacred **assembly**.
 + &rArr; rally to do what?
 
 ---
+## 2. Call of God 神的呼召 
++ **Rend** Your Heart <br/>
+  撕裂你的心腸 [(2:13)](# "ref")
++ **Rally** the Survivors <br/>
+  鼓勵剩下的人 [(2:15-17)](# "ref")
++ **Return** to the LORD our God <br/>
+  回轉歸向主我們的神 [(2:12)](# "ref")
+
+>>>
++ **Turn back** to God
+
+---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 **Return** to the LORD your God, <br/>
-for he is **gracious** and **compassionate**,
-
+for he is **gracious** and **compassionate**, <br/>
 slow to **anger** and abounding in **love**, <br/>
 and he **relents** from sending calamity.
 
-[Joel 2:13 (NASB)](# "ref")
+歸向耶和華─你們的神；<br/>
+因為他有恩典，有憐憫，<br/>
+不輕易發怒，有豐盛的慈愛，<br/>
+並且後悔不降所說的災。
+
+[Joel 約珥 2:13 (NIV/CUV)](# "ref")
 [Shontz Photography](https://unsplash.com/photos/y4v96Sy2ne4 "caption")
 
 >>>
@@ -421,7 +485,8 @@ and he **relents** from sending calamity.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will we <br/> **rend** our hearts, <br/> **rally** together, and <br/> **return** to our God?
+# Will we **rend** our hearts, <br/> **rally** together, and **return** to our God?
+# 我們會撕裂我們的心腸, <br/> 彼此互相鼓勵, 回轉歸向我們的 神嗎? 
 
 >>>
 + **together**, not individual:
@@ -435,7 +500,7 @@ and he **relents** from sending calamity.
 + He is **gracious** + compassionate
 
 ---
-<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="outline" -->
 ## Joel: Even Now, Return
 1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
 2. Return: The Call of God [(2:12-17)](# "ref")
@@ -452,12 +517,17 @@ and he **relents** from sending calamity.
   + now **rescues** us
 
 ---
-## 3. The Promise of God
-+ Renewed **Nature** [(2:18-27)](# "ref")
+## 3. Promise of God 神的應許 
++ Renewed **Nature** <br/>
+  被更新的自然界 [(2:18-27)](# "ref")
   + Comfort: *land*, *animals*, *people*
-+ Redeemed **Spirit** [(2:28-32)](# "ref")
+  + 得著安慰：土地, 動物, 人
++ Redeemed **Spirit** <br/>
+  被救贖的靈 [(2:28-32)](# "ref")
   + To all who *call* on His name
-+ Restored **Nation** [(ch3)](# "ref")
+  + 是給凡呼求 祂名的人
++ Restored **Nation** <br/>
+  被復興的萬民 [(ch3)](# "ref")
 
 >>>
 + sin corrupted **creation**
@@ -473,11 +543,13 @@ and he **relents** from sending calamity.
 
 ---
 <!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
-Then the LORD <br/>
-will be **zealous** for His land <br/>
+Then the LORD will be **zealous** for His land <br/>
 And will have **pity** on His people.
 
-[Joel 2:18 (NASB)](# "ref")
+耶和華就為自己的地發熱心，<br/>
+憐恤他的百姓。
+
+[Joel 約珥 2:18 (NASB/CUV)](# "ref")
 [John Bridges, "Christ Healing the Mother of Simon Peter’s Wife", 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
@@ -490,12 +562,13 @@ And will have **pity** on His people.
 
 ---
 <!-- .slide: <%= bg("unsplash-kmF_Aq8gkp0-barley_wheat_grain.jpg") %> -->
-Do not fear, O **land**,
+Do not fear, **land**; shout for joy and rejoice, <br/>
+For the LORD has done **great** things.
 
-rejoice and be glad, <br/>
-for the LORD has done **great** things.
+地土啊，不要懼怕； 要歡喜快樂，<br/>
+因為耶和華行了大事。
 
-[Joel 2:21 (NASB)](# "ref")
+[Joel 約珥 2:21 (NASB/CUV)](# "ref")
 [Zugr](https://unsplash.com/photos/kmF_Aq8gkp0 "caption")
 
 >>>
@@ -506,12 +579,14 @@ for the LORD has done **great** things.
 
 ---
 <!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
-Do not fear, **beasts** of the field,
-
+Do not fear, **beasts** of the field, <br/>
 For the **pastures** of the wilderness <br/>
 have turned **green**
 
-[Joel 2:22 (NASB)](# "ref")
+田野的走獸啊，不要懼怕；<br/>
+因為，曠野的草發生
+
+[Joel 約珥 2:22 (NASB/CUV)](# "ref")
 [Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
@@ -528,12 +603,15 @@ have turned **green**
 ---
 <!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 So rejoice, O **sons of Zion**, <br/>
-And be glad in the **LORD your God**;
-
+And be glad in the **LORD your God**; <br/>
 For He has given you <br/>
 the early **rain** for your **vindication**.
 
-[Joel 2:23 (NASB)](# "ref")
+錫安的民哪，你們要快樂，<br/>
+為耶和華─你們的神歡喜；<br/>
+因他賜給你們合宜的秋雨
+
+[Joel 約珥 2:23 (NASB/CUV)](# "ref")
 [Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
@@ -553,7 +631,12 @@ that I am the LORD **your God**, <br/>
 and that there is **no other**; <br/>
 never again will my people be **shamed**.
 
-[Joel 2:27 (NASB)](# "ref")
+你們必知道我是在以色列中間，<br/>
+又知道我是耶和華─你們的神；<br/>
+在我以外並無別神。<br/>
+我的百姓必永遠不致羞愧
+
+[Joel 約珥 2:27 (NASB/CUV)](# "ref")
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
@@ -570,7 +653,9 @@ So we will know:
 And afterward, I will pour out <br/>
 **my Spirit** on all people
 
-[Joel 2:28 (NASB)](# "ref")
+以後，我要將我的靈澆灌凡有血氣的
+
+[Joel 約珥 2:28 (NASB/CUV)](# "ref")
 [Jean Restout, "Pentecôte", 1732](http://www.wga.hu/html/r/restout/jean2/pentecos.html "caption")
 
 >>>
@@ -585,29 +670,31 @@ And afterward, I will pour out <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-Dc3YQuyr2pU-moon.jpg") %> -->
-The sun will be turned to **darkness** <br/>
-and the moon to **blood**
+The sun will be turned to **darkness** and <br/>
+the moon to **blood** before the coming of <br/>
+the great and dreadful **day of the LORD**
 
-before the coming of the great <br/>
-and dreadful **day of the LORD**
+日頭要變為黑暗，月亮要變為血，<br/>
+這都在耶和華大而可畏的日子未到以前
 
-[Joel 2:31 (NASB)](# "ref")
+[Joel 約珥 2:31 (NASB/CUV)](# "ref")
 [Nousnou Iwasaki](https://unsplash.com/photos/Dc3YQuyr2pU "caption")
 
 >>>
 + echo 2:10 Lord coming w/army
-+ next: the LORD **speaks**/thunders
++ lastly: the LORD **speaks**/thunders
   + what does He say?
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-And everyone who calls on <br/>
-the **name of the LORD** will be **saved**
+And everyone who calls on the <br/>
+**name of the LORD** will be **saved** ... <br/>
+even among the **survivors** whom the Lord **calls**.
 
-... even among the **survivors** <br/>
-whom the Lord **calls**.
+凡求告耶和華名的就必得救； ... <br/>
+在剩下的人中必有耶和華所召的
 
-[Joel 2:32 (NASB)](# "ref")
+[Joel 約珥 2:32 (NASB/CUV)](# "ref")
 [Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
@@ -623,7 +710,8 @@ whom the Lord **calls**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **prepared** <br/> for the **day** <br> of the **LORD**?
+# Am I **prepared** for the <br/> **day** of the **LORD**?
+# 我對於主的日子準備好了嗎？
 
 >>>
 + I'm too **busy** surviving
@@ -643,7 +731,9 @@ whom the Lord **calls**.
 And everyone who calls on <br/>
 the **name of the LORD** will be **saved**
 
-[Joel 2:32 (NASB)](# "ref")
+凡求告耶和華名的就必得救
+
+[Joel 約珥 2:32 (NASB/CUV)](# "ref")
 
 >>>
 + **God** calls to us:
