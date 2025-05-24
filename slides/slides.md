@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
-# Even Now, Return to Me <br> 雖然如此, 應當回轉歸向我
+# Even Now, <br/> Return to Me 
+# 雖然如此, <br/> 應當回轉歸向我
 ## Joel 約珥 2:11-13
 
 >>>
@@ -13,8 +14,9 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# **Disaster** is upon us -- <br> **what** do we do?
-# 災難臨頭, 我們該怎麼辦？
+# **Disaster** is upon us -- <br> **what** do we do? <br/> 災難臨頭, 我們該怎麼辦？
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + present global **crisis** is a virus,
@@ -70,11 +72,6 @@ ______
 ## 1. Day of the LORD 主的日子 
 + **Natural** disasters 天然災害:
   + *Famine*, drought [(ch1)](# "ref")
-<!--
-  + Wail, you: *drunkards* [(1:5-10)](# "ref"), <br/>
-    *farmers* [(1:11-12)](# "ref"),
-    *priests* [(1:13-14)](# "ref")
--->
   + Affects *land*, animals, people
 + **Human** disasters 人類災難:
   + *Armies* of God [(2:1-11)](# "ref")
@@ -188,7 +185,7 @@ Because there is no **pasture** for them
 ---
 ## 1. Day of the LORD 主的日子 
 + Natural disasters 天然災害:
-  + Affects *land*, *animals*, *people*
+  + Affects land, animals, people
 + **Human disasters 人類災難**:
   + *Armies* of God [(2:1-11)](# "ref")
   + *Sun*/moon/stars darkened [(2:10)](# "ref")
@@ -272,8 +269,9 @@ Who can **endure** it?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **anticipate** the <br/> day of the LORD, or **ignore** it?
-# 我是否預想準備 主的日子, <br/> 或是忽視它？
+# Do I **anticipate** the <br/> day of the LORD, or **ignore** it? <br/> 我是否預想準備 主的日子, <br/> 或是忽視它？
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + "too **busy** to think abt it"
@@ -292,9 +290,12 @@ Who can **endure** it?
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="outline" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
-2. **Return: The Call of God** [(2:12-17)](# "ref")
-3. Renewal: The Promise of God [(2:18-32)](# "ref")
+1. Ruin: The Day of the LORD <br>
+  變成荒涼：主的日子 [(1:1-2:11)](# "ref")
+2. **Return: The Call of God** <br>
+  回轉歸神：神的呼召 [(2:12-17)](# "ref")
+3. Renewal: The Promise of God <br>
+  重新得力：神的應許 [(2:18-32)](# "ref")
 
 >>>
 + God's **judgment** is coming,
@@ -409,11 +410,11 @@ ______
 
 ---
 ## 2. Call of God 神的呼召 
-+ **Rend** Your Heart <br/>
++ Rend Your Heart <br/>
   撕裂你的心腸 [(2:13)](# "ref")
-+ **Rally** the Survivors <br/>
++ **Rally the Survivors** <br/>
   鼓勵剩下的人 [(2:15-17)](# "ref")
-+ **Return** to the LORD our God <br/>
++ Return to the LORD our God <br/>
   回轉歸向主我們的神 [(2:12)](# "ref")
 
 >>>
@@ -444,11 +445,11 @@ declare a holy **fast**, call a sacred **assembly**. <br/>
 
 ---
 ## 2. Call of God 神的呼召 
-+ **Rend** Your Heart <br/>
++ Rend Your Heart <br/>
   撕裂你的心腸 [(2:13)](# "ref")
-+ **Rally** the Survivors <br/>
++ Rally the Survivors <br/>
   鼓勵剩下的人 [(2:15-17)](# "ref")
-+ **Return** to the LORD our God <br/>
++ **Return to the LORD our God** <br/>
   回轉歸向主我們的神 [(2:12)](# "ref")
 
 >>>
@@ -488,6 +489,8 @@ and he **relents** from sending calamity.
 # Will we **rend** our hearts, <br/> **rally** together, and **return** to our God?
 # 我們會撕裂我們的心腸, <br/> 彼此互相鼓勵, 回轉歸向我們的 神嗎? 
 
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + **together**, not individual:
 + **sin** affects the community,
@@ -502,9 +505,12 @@ and he **relents** from sending calamity.
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> class="outline" -->
 ## Joel: Even Now, Return
-1. Ruin: The Day of the LORD [(1:1-2:11)](# "ref")
-2. Return: The Call of God [(2:12-17)](# "ref")
-3. **Renewal: The Promise of God** [(2:18-32)](# "ref")
+1. Ruin: The Day of the LORD <br>
+  變成荒涼：主的日子 [(1:1-2:11)](# "ref")
+2. Return: The Call of God <br>
+  回轉歸神：神的呼召 [(2:12-17)](# "ref")
+3. **Renewal: The Promise of God** <br>
+  重新得力：神的應許 [(2:18-32)](# "ref")
 
 >>>
 + **Disaster** is coming, which 
@@ -518,16 +524,15 @@ and he **relents** from sending calamity.
 
 ---
 ## 3. Promise of God 神的應許 
-+ Renewed **Nature** <br/>
-  被更新的自然界 [(2:18-27)](# "ref")
++ Renewed **Nature** 被更新的自然界 [(2:18-27)](# "ref")
   + Comfort: *land*, *animals*, *people*
   + 得著安慰：土地, 動物, 人
-+ Redeemed **Spirit** <br/>
-  被救贖的靈 [(2:28-32)](# "ref")
++ Redeemed **Spirit** 被救贖的靈 [(2:28-32)](# "ref")
   + To all who *call* on His name
   + 是給凡呼求 祂名的人
-+ Restored **Nation** <br/>
-  被復興的萬民 [(ch3)](# "ref")
++ Restored **Nation** 被復興的萬民 [(ch3)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + sin corrupted **creation**
@@ -712,6 +717,8 @@ even among the **survivors** whom the Lord **calls**.
 <!-- .slide: data-background="white" -->
 # Am I **prepared** for the <br/> **day** of the **LORD**?
 # 我對於主的日子準備好了嗎？
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + I'm too **busy** surviving

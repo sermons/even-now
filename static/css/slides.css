@@ -2,14 +2,9 @@
  * Local styles specific to my presentations
  *********************************************/
 
-/* Darken background images */
-.reveal .slide-background-content {
-  opacity: 60%;
-}
-
 /* Blur bg img behind slide content */
 section[data-background-image] {
-  backdrop-filter: blur(0.1rem)
+  backdrop-filter: blur(0.1rem) brightness(0.6)
 }
 
 /* Shade text if background image */
