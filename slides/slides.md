@@ -9,7 +9,8 @@
 + I was in US on 9/11/2011
   + live TV when plane hit 2nd tower
   + Traumatic time for US
-+ Here in BC: **wildfires**, also Calif
++ **Wildfires**: BC, Calif
+  + Earthquake, hurricane 
 + Living in **warzones**: Ukraine, 
   + Israel+Gaza, Myanmar, Sudan
 
@@ -490,8 +491,8 @@ and he **relents** from sending calamity.
   **重新得力：神的應許** [(2:18-32)](# "ref")
 
 >>>
-+ **Disaster** is coming, which 
-  + we are utterly **unprepared** for:
++ **Disaster** is coming, for which 
+  + we are utterly **unprepared**:
   + the **day** of God's judgment
 + When we **repent** + return to God,
   + there is a **promise**:
@@ -535,10 +536,10 @@ And will have **pity** on His people.
 [John Bridges, "Christ Healing the Mother of Simon Peter’s Wife", 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
-+ God acts with both:
-+ **zeal**/jealousy: passion
-+ *pity*: **compassion**, tenderness
-+ just as in ch1 3 **groups** mourned:
++ God acts w/both zeal + pity:
+  + **zeal**/jealousy: passion
+  + *pity*: **compassion**, tenderness
++ in ch1 these 3 **groups** mourned:
   + land, animals, people
 + so in v21-23:
 
@@ -604,7 +605,9 @@ the early **rain** for your **vindication**.
   + for our **trust** in God
 + **Why** does God heal us?
   + Not bc we're **entitled**
-  + Not **suffer** more &rArr; bless more
++ Not **suffer** more &rArr; bless more
++ God's **purpose** in healing us
+  + is in v27:
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -626,7 +629,7 @@ So we will know:
 1. God is **here** (midst) (Canada)
 2. God is **our** God (rl, covenant)
 3. God is the **only** God (none other can save)
-4. God is our **vindication**
+4. God is our **vindication** (only src pride) 
 + So God renews **nature**, and
 + **restores** our rl w/Him:
 
@@ -643,8 +646,8 @@ And afterward, I will pour out <br/>
 >>>
 + **redeem** broken rl w/God
 + quoted in Acts 2: **Pentecost**
-+ HS **enables** people from 
-  + **all** nations + tongues
++ As in Acts, HS **enables** people
+  + from **all** nations + tongues
 + to **repent** + be **baptized**
   + into **discipleship** of Christ
 + displays miraculous **signs**:
@@ -680,15 +683,18 @@ even among the **survivors** whom the Lord **calls**.
 [Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
-+ **calls** from all nations 
-  + quoted in Rom 10:13
-+ not rely own **might** / wisdom:
-  + I can handle it, **prepared**
++ quoted in Rom 10:13:
+  + **calls** from all nations
++ Not **magic** words: "Jesus, Jesus, Jesus" 
++ not rely own **strength** / wisdom:
+  + "I can handle it, **prepared**" 
 + not rely own **righteousness**:
-  + tried my **best**:
-  + surely **good** enough?
+  + "tried my **best**:
+  + surely **good** enough?" 
 + but call on **name of the LORD**:
   + rely fully on **grace**
++ **obey** fully in trust:
+  + "Not my will, but Thine" 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -708,6 +714,8 @@ even among the **survivors** whom the Lord **calls**.
   + can **handle** it (own **might**)
   + tried my **best**
     + (own **righteousness**)
++ Amid **disaster**, remember 
+  + God's **promise** in Joel:
 
 ---
 <!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
