@@ -4,13 +4,14 @@
 ## Joel 約珥 2:11-13
 
 >>>
-+ whether watching as a **household**
-  + or just by **yourself**,
-+ God **hears** your prayers:
-  + **near** to brokenhearted,
-  + **saves** crushed in spirit *[Ps34:18]*
-+ **fearful** times we live in:
-  + how should we **respond**?
++ Times of **overwhelming** disaster
+  + far beyond what can handle 
++ I was in US on 9/11/2011
+  + live TV when plane hit 2nd tower
+  + Traumatic time for US
++ Here in BC: **wildfires**, also Calif
++ Living in **warzones**: Ukraine, 
+  + Israel+Gaza, Myanmar, Sudan
 
 ---
 <!-- .slide: data-background="white" -->
@@ -19,19 +20,9 @@
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ present global **crisis** is a virus,
-  + Bib. times also had **plagues**.
-+ also entering into **econ.** crisis;
-  + stress on nat. **resrc** reveals
-+ **political** crises:
-  + incr. **nationalism**,
-  + **distrust**, extremism
-+ even in your own **home**:
-  + after several wks **isolating**,
-  + you may feel **rls** in crisis
-+ how are we to **cope** / think?
-  + what's pathway **forward**?
-+ v. small, in **pre-K**, Chr sch: 
++ How do we **react** in times of disaster? 
++ How to **cope**, think, move **forward**?
++ e.g., in **pre-K**, Chr sch: 
   + **thunder** storm just outside
 + little kids: very **afraid**
   + tch: how **mighty** is our God!
@@ -81,8 +72,9 @@ ______
 >>>
 + **Natural** and **human**
   + Both from God, **consequence** of sin
-+ again, COVID19 not nec God's **punishment**
-  + but is a **conseq** of sin:
++ Earthquake / typhoon 
+  + not nec God's direct **punish**
+  + but still **conseq** of sin:
 + bc man's **rebellion** against God,
   + **creation** is broken,
   + fallen from orig. **good** design.
@@ -106,7 +98,7 @@ the **great locusts** have eaten
 + locust: short-horned **grasshoppers**
   + normally **solitary**, but
   + **swarm** when crowded
-  + up to **50M** / km2
+  + up to **50M** / km2 (5 qian wan)
 + not 4 **species** of locust, but
   + 4 **stages** of growth
 
@@ -116,31 +108,11 @@ the **great locusts** have eaten
 [Distribution of Melanoplus spretus, 1877. C.V. Riley](https://commons.wikimedia.org/wiki/File:Melanoplus_distribution.jpg "caption")
 
 >>>
-+ 1875 **swarm** of Rocky-Mtn locust:
-  + est cover 0.5M km2, depth 1.5km
-  + 3-12T locust, named **Albert's** swarm
-+ such a swarm wd've been **devastating**
-  + everything **green** eaten up
-
----
-<!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
-The **land** mourns, <br/>
-for the **grain** is ruined
-
-地悲哀； 因為五穀毀壞
-
-[Joel 約珥 1:10 (NASB/CUV)](# "ref")
-[Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
-
->>>
-+ 3 categories of **harvest** ruined:
-  + **grain** + new **wine** + **oil**
-+ 3 categories of **mourners**:
-  + **land** + **animals** + **people**
-+ Perhaps now feel COVID19 **not so bad**!
-  + well, COVID19 **is** very bad,
-+ but it **has** been worse in past,
-  + and **will** get much worse in future...
++ 1875 Rocky-Mtn **locust**, "Albert's swarm":
+  + est cover 0.5M km2 (50 wan), depth 1.5km
+  + 3-12T locust (30-120 yi) total
++ catastrophic for **land**
+  + consequences for **animals**:
 
 ---
 <!-- .slide: <%= bg("wm-Riverina_Sheep_during_drought.jpg") %> -->
@@ -157,12 +129,11 @@ Because there is no **pasture** for them
 + when disaster strikes 1part **food chain**
 + it affects **everything**, bc
   + we are all **interdependent**
-+ as we've seen, **food** doesn't just 
++ **food** doesn't just 
   + **magically** appear at supermarket
 + supply chain is **powered** by
   + farmers, manufacturers,
   + distributors, drivers, retailers
-  + all of which **impacted** by COVID19
 + from **land** to **animals** to **people**:
 
 ---
@@ -213,7 +184,7 @@ For the **day of the Lord** is coming
 
 >>>
 + "trumpet / alarm": **warning** of threat
-+ "day of the Lord": means **judgment**
++ "Day of the Lord": day of **judgment**
 + 3:14 "valley of decision"
   + sharp cut, divide:
   + sheep vs goats
@@ -275,7 +246,7 @@ Who can **endure** it?
 
 >>>
 + "too **busy** to think abt it"
-  + talk abt **more** disaster?
++ Why **talk** about disaster?
   + want to hear sth **encouraging**!
   + focus on God's **compassion**!
 + "can't **do** anything about it"
@@ -317,7 +288,7 @@ Who can **endure** it?
 
 >>>
 + God does **not** yet say,
-  + that's it, you're **done**, failure
+  + that's it, you're **done**, fail
 + not **summative** but **formative**:
   + **call** to change
 + **rend**, rally, return
@@ -364,7 +335,11 @@ Rend your **heart** and not your **garments**
   + ok **done**, can go play?
 + **punish** him? timeout, spank, etc.
   + &rArr; **martyr**!
-+ can't force a **change of heart**
++ can't force **change of heart** in others 
+  + but can cultivate in **myself**
++ indeed, JJ has since learned 
+  + **empathy** 
+  + appeal to **reason**, not coercion 
 
 ---
 <!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
@@ -419,7 +394,9 @@ ______
 
 >>>
 + (2) **rally** the faithful:
-  + **corporate** repentance
++ Not meant for us to suffer **alone**
++ **Call* together all who would
+  + **repent** + earnestly seek God 
 
 ---
 <!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
@@ -454,6 +431,7 @@ declare a holy **fast**, call a sacred **assembly**. <br/>
 
 >>>
 + **Turn back** to God
+  + who **redeems** us
 
 ---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
@@ -478,7 +456,7 @@ and he **relents** from sending calamity.
   + and **re**-intro self here
 + **justice** + **mercy**
   + kindness + severity
-+ God does not **delight** in our suffering
++ God doesn't **delight** in our suffer
   + but longs to show **mercy**
 + channel our **sorrow** + pain
   + into desperate **return**
@@ -494,7 +472,7 @@ and he **relents** from sending calamity.
 + **together**, not individual:
 + **sin** affects the community,
   + **disaster** strikes us all,
-  + so **repentance**  is up to
++ so **repentance**  is up to
   + **community** of faithful:
 + **repent** in humility of heart,
   + call an **assembly** of faithful
